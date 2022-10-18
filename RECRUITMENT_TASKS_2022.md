@@ -10,8 +10,8 @@
 ### Table of contents
 | Task      |
 | ----------- |
-| [File Upload Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-file-upload-application)       |
-| [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-name_of_the_task)        |
+| [File Upload Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-file-upload-application)       |
+| [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
 
 
 ## Task ID: File Upload Application
