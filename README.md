@@ -39,7 +39,7 @@ Fill this [form](https://forms.gle/C1b8Bb1uUkFfFAYM9) on or before the deadline 
 
 ### Contact
 In case of further queries post in the [Recruitment WhatsApp group](https://chat.whatsapp.com/IkE7vZvdgTmJpHNYwWKJQF) or contact:
-* Rashmit S (+91 6362402817)
+* Rashmith S (+91 6362402817)
 * Ashwin P (+91 9035797138)
 * Shashank SM (+91 9380435605)
 
