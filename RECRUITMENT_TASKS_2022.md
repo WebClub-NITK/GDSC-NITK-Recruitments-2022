@@ -25,7 +25,7 @@ Tag: `Medium`
 ### Description
 Firebase has been growing in popularity over the years, thanks to its features that offer a variety of services varying from acting as a database to store files and text, to serving as a real-time communcation server.
 
-Your task is to come up with a web application, where-in, you can upload files to firebase. This application must support user authentication (login), ability to download files and upload files and viewing the uploaded file.
+Your task is to come up with a web application, where-in, you can upload files to firebase. This application must support user authentication (different options to login ex: google sign in, phone authentication are expected along with email password), ability to download files and upload files and viewing the uploaded file.
 
 The files must be uploaded to firebase, you are free to use any frontend framework of your choice.
 ### Useful resources:
