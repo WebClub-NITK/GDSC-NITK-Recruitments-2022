@@ -11,6 +11,7 @@
 | Task      |
 | ----------- |
 | [File Upload Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-file-upload-application)       |
+| [Progressive Web application with OAuth](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2021.md#task-id-progressive-web-application-with-oauth)
 | [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
 
 
@@ -37,6 +38,34 @@ These links might give you a direction
 1. You are not limited by any language or technology.
 2. Focus on the UI part.
 3. Bonus points if there is a dashboard for every user and each user can see only thier own files.
+
+## Task ID: Progressive Web Application with OAuth
+
+#### `Web dev`, `PWA`, `OAuth`
+
+Mentors: [@Sriram](https://github.com/Sriram2001) (+91 7975610644), [@Rashmith](https://github.com/rashmiths) (+91 6362402817)
+
+Tag: `Easy-Medium`
+
+### Description
+
+Progressive Web Application (PWA) is a type of website that can be installed on a device and provide an app-like experience. In this task you are expected to implement a simple web application that can be installed on a device. Also, the application should allow for the user to login with an existing account of theirs such as their Google/Facebook account via OAuth.
+
+Optionally, you can also utilise some of the features PWAs make way for such as notifications, geolocation, file system, etc.
+
+### Useful resources:
+
+- https://jakearchibald.github.io/isserviceworkerready/resources.html
+- https://whatpwacando.today/
+- https://www.c-sharpcorner.com/learn/build-progressive-web-apps/implementing-oauth-2-in-pwas
+- https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/
+- https://engineering.musefind.com/build-your-first-progressive-web-app-with-react-8e1449c575cd
+
+### Tips
+
+1. Any additional functionality will be greatly appreciated.
+2. Bonus points if the application has features such as file system access, media access, etc.
+3. UI can be fairly basic and there is no restriction on the technology to be used.
 
 ## Task ID: NAME_OF_THE_TASK
 #### `Tag-1` `Tag-2`
