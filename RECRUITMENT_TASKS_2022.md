@@ -45,7 +45,7 @@ These links might give you a direction
 
 Mentors: [@Sriram](https://github.com/Sriram2001) (+91 7975610644), [@Rashmith](https://github.com/rashmiths) (+91 6362402817)
 
-Tag: `Easy-Medium`
+Tag: `Medium`
 
 ### Description
 
