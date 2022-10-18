@@ -43,7 +43,7 @@ These links might give you a direction
 
 #### `Web dev`, `PWA`, `OAuth`
 
-Mentors: [@Sriram](https://github.com/Sriram2001) (+91 7975610644), [@Rashmith](https://github.com/rashmiths) (+91 6362402817)
+Mentors: [@Rashmith](https://github.com/rashmiths) (+91 6362402817), [@Ashwin901](https://github.com/Ashwin901) (+91 9035797138)
 
 Tag: `Medium`
 
