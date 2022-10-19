@@ -12,7 +12,7 @@
 | ----------- |
 | [File Upload Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-file-upload-application)       |
 | [Progressive Web application with OAuth](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-progressive-web-application-with-oauth)
-| [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
+| [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-responsive-landing-page)        |
 
 
 ## Task ID: File Upload Application
@@ -67,23 +67,52 @@ Optionally, you can also utilise some of the features PWAs make way for such as 
 2. Bonus points if the application has features such as file system access, media access, etc.
 3. UI can be fairly basic and there is no restriction on the technology to be used.
 
-## Task ID: NAME_OF_THE_TASK
-#### `Tag-1` `Tag-2`
+## Task ID: Responsive Landing Page
+#### `UI/UX` , `Web-Development` , `Frontend-Development`, `API`
 
-Mentors: [@Mentor-1](https://github.com/Mentor-1) (`Number`), [@Mentor-2](https://github.com/Mentor-2) (`Number`)
+Mentors: [@Parth Mittal](https://github.com/mittal-parth) (`+91 9411327838`), [@Aditya R Rudra](https://github.com/adityaofficial10) (`+91 6260749212`)
 
-Tag: `Difficulty_Level`
+Tag: `Easy-Medium`
 
 ### Description
-A Paragraph explaining the tech to be used/expected.
+A landing page is a single web page that often forms the first digital impression of a product to a user. It contains all the information necessary to attract the user and convert it into a sale. It contains the 'Call To Action' and can make or break the deal.
 
-A Paragraph about the task
+
+Build a landing page for any business/product. Fetch the data using any of the below mentioned APIs (one or more APIs from any _one_ category). For instance, a cinema hall would use any of the entertainment APIs to show the movies it displays.
+
+#### Entertainment
+- [Imgflip](https://imgflip.com/api) | Gets an array of popular memes
+- [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/) | Search events, attractions, or venues
+
+#### Sports & Fitness
+- [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Get information about Football Leagues & Cups
+- [Ergast F1](http://ergast.com/mrd/) | F1 data from the beginning of the world championships in 1950
+- [NBA Data](https://rapidapi.com/api-sports/api/api-nba/) | All NBA Stats DATA, Games, Livescore, Standings, Statistics
+- [Sportmonks Cricket](https://docs.sportmonks.com/cricket/) | Live cricket score, player statistics and fantasy API
+
+
+#### Games
+- [Clash of Clans](https://developer.clashofclans.com) | Clash of Clans Game Information
+- [Fortnite](https://fortnitetracker.com/site-api) | Fortnite Stats
+- [Marvel](https://developer.marvel.com) | Marvel Comics
+- [Pokéapi](https://pokeapi.co) | Pokémon Information
+- [Valorant (non-official)](https://valorant-api.com) | An extensive API containing data of most Valorant in-game items, assets and more
+
+
+#### Anime
+- [AniDB](https://wiki.anidb.net/HTTP_API_Definition) | Anime Database
+- [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news
+- [MangaDex](https://api.mangadex.org/docs.html) | Manga Database and Community
+- [MyAnimeList](https://myanimelist.net/clubs.php?cid=13727) | Anime and Manga Database and Community
+
+
 ### Useful resources:
 These links might give you a direction
-* Link-1
-* Link-2
+* Sample 1 - https://www.bluelearn.in/
+* Sample 2 - https://www.cuvette.tech/
 
 ### Tips
-1. Tip-1
-2. Tip-2
-3. Tip-3
+1. You are not limited by any language or technology.
+2. The primary focus is on the UI.
+3. You are free to chose the colour schemes, typeface, etc.
+4. All the sections need *not* fetch data from the API (only one or two would do)
