@@ -67,6 +67,30 @@ Optionally, you can also utilise some of the features PWAs make way for such as 
 2. Bonus points if the application has features such as file system access, media access, etc.
 3. UI can be fairly basic and there is no restriction on the technology to be used.
 
+## Task ID: Pokemon Wiki Using GraphQL
+#### `UI/UX` `Web/Mobile` `API`
+
+Mentors: [@Abdullah Rafi](https://github.com/abdullah1308) (+91 9361225834), [Niraj Nandish](https://github.com/Nirajn2311) (+91 8197416082)
+
+Tag: `Easy`
+
+### Description
+GraphQL is a query language for APIs, and a server-side runtime for executing queries using a user-defined type system. 
+
+Your task is to build a Pokemon wiki by consuming the following GraphQL API - https://studio.apollographql.com/sandbox/explorer. 
+
+You may consume addtional APIs (non GraphQL included) and display information on the wiki.
+### Useful resources:
+These links might give you a direction
+* https://graphql.org/learn
+* https://www.howtographql.com
+* https://youtu.be/BcLNfwF04Kw
+* https://youtu.be/7wzR4Ig5pTI
+
+### Tips
+1. The UI/UX of the wiki will be an important factor in the grading of this task
+2. You are free to use any language/technology/framework of your choice
+
 ## Task ID: NAME_OF_THE_TASK
 #### `Tag-1` `Tag-2`
 
