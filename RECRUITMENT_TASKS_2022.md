@@ -92,23 +92,26 @@ These links might give you a direction
 1. The UI/UX of the wiki will be an important factor in the grading of this task
 2. You are free to use any language/technology/framework of your choice
 
-## Task ID: NAME_OF_THE_TASK
-#### `Tag-1` `Tag-2`
+## Task ID: Codeforces Lockout
+#### `Web dev` `Websockets` `API`
 
-Mentors: [@Mentor-1](https://github.com/Mentor-1) (`Number`), [@Mentor-2](https://github.com/Mentor-2) (`Number`)
+Mentors: [@Sushant S Rao](https://github.com/raosush) (`+91 99167 38256`), [@Rakshith Mohan](https://github.com/mrakshith21) (`+91 9535664371`)
 
-Tag: `Difficulty_Level`
+Tag: `Hard`
 
 ### Description
-A Paragraph explaining the tech to be used/expected.
 
-A Paragraph about the task
+
+The [Codeforces API](https://codeforces.com/apiHelp) has been very useful for the competitive programming community. Lockout bots developed in Discord allow contestants to compete in exiting two-player contests.   
+
+Your task is to a build a web application to play lockout games using the API. The application should support mutliplayer games.
+
 ### Useful resources:
-These links might give you a direction
-* Link-1
-* Link-2
+* https://codeforces.com/blog/entry/78546
+* https://socket.io/get-started/chat
+* https://www.youtube.com/watch?v=bBNIIg8REUU
 
 ### Tips
-1. Tip-1
-2. Tip-2
-3. Tip-3
+1. Try to build the application for two players initially and then for multiple players.
+2. UI can be minimal, bonus points will be awarded if it good.
+3. You are free to use any framework of your choice.
