@@ -13,6 +13,7 @@
 | [File Upload Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-file-upload-application)       |
 | [Progressive Web application with OAuth](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-progressive-web-application-with-oauth)
 | [Pokemon Wiki Using GraphQL](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-pokemon-wiki-using-graphql)        |
+| [Sentiment Analysis Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-sentiment-analysis-application)        |
 | [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
 
 
@@ -91,6 +92,37 @@ These links might give you a direction
 ### Tips
 1. The UI/UX of the wiki will be an important factor in the grading of this task
 2. You are free to use any language/technology/framework of your choice
+
+## Task ID: Sentiment Analysis Application
+#### `web development` `ML`
+
+Mentors: [@shrinidhi](https://github.com/ShrinidhiBallalNidamboor) (+91 8197189706), [@Gauvrav](https://github.com/gaurav2699) (+91 6260749212)
+
+Tag: `Medium`
+
+### Description
+Sentiment analysis is an advanced analysis technique that uses machine learning. It's also another good way to get in depth results about the data. Sentiment analysis looks specifically at the feeling implicit in the comment. This could be positive, negative, or neutral.
+
+When you know the sentiment present in your app reviews, you are then able to understand what your customers are happy with and what they are not, i.e. what you should improve or change.
+
+In the case of negative sentiment, you can often turn around bad situations or avoid them all together when you collect this feedback and act on it in a timely manner. Positive sentiment can help you see where you are pleasing your customers and what you could do more of. It can also give you a sense of the urgency of the review and if it's something that needs to be dealt with urgently to avoid future issues.
+
+Your task is to develop an application to determine the sentiment of the reviews given in e-commerce application (say amazon) and then classify them into various categories. The main aim of this application is to aid the e-commerce websites to handle the reviews and take measures for improvement of the website.
+### Useful resources:
+These links might give you a direction
+* https://monkeylearn.com/sentiment-analysis/#:~:text=Sentiment%20analysis%20(or%20opinion%20mining,feedback%2C%20and%20understand%20customer%20needs.
+* https://lazarinastoy.com/sentiment-analysis-theory-methods-applications/
+* https://blog.logrocket.com/sentiment-analysis-node-js/
+* https://techvidvan.com/tutorials/python-sentiment-analysis/
+
+### Tips
+1. You are not limited by any language or technology.
+2. Focus on the method to be used.
+3. Make sure to use a large dataset for more accuracy(if used).
+4. Try using ML and NLP for determining the sentiments.
+5. There are npm packages available for ML.
+6. Variety in the sentiments captured will be awared bonus points. 
+
 
 ## Task ID: NAME_OF_THE_TASK
 #### `Tag-1` `Tag-2`
