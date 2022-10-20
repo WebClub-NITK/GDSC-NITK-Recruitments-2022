@@ -13,7 +13,7 @@
 | [File Upload Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-file-upload-application)       |
 | [Progressive Web application with OAuth](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-progressive-web-application-with-oauth)
 | [Pokemon Wiki Using GraphQL](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-pokemon-wiki-using-graphql)        |
-| [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
+| [Codeforces Lockout](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-codeforces-lockout)        |
 
 
 ## Task ID: File Upload Application
@@ -104,7 +104,7 @@ Tag: `Hard`
 
 The [Codeforces API](https://codeforces.com/apiHelp) has been very useful for the competitive programming community. Lockout bots developed in Discord allow contestants to compete in exiting two-player contests.   
 
-Your task is to a build a web application to play lockout games using the API. The application should support mutliplayer games.
+Your task is to a build a web application to play lockout games using the Codeforces API. The application should support mutliplayer games.
 
 ### Useful resources:
 * https://codeforces.com/blog/entry/78546
