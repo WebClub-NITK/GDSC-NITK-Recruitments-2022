@@ -185,7 +185,7 @@ These links might give you a direction
 * https://www.freecodecamp.org/news/create-a-discord-bot-with-javascript-nodejs/
 * https://realpython.com/how-to-make-a-discord-bot-python/
 * https://medium.com/ieee-manipal/build-a-telegram-bot-using-python-23b13549856f
-* There are many YouTube videos where you can take help from
+* There are many YouTube videos where you can take help from.
 
 ### Tips
 1. You are free to use any language/technology/framework of your choice.
