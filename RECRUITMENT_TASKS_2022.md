@@ -170,6 +170,28 @@ These links might give you a direction
 1. You are free to use any language/technology/framework of your choice.
 2. Try to implement as many features of an ERP as possible.
 
+## Task ID: Country Bot
+#### `Discord Bot` `Telegram Bot` `APIs` `JavaScript` `Python`
+
+Mentors: [Rajan Jaiswal](https://github.com/rj-since-2000) (`+91 95653 43771`), [Rahul Gonchikar](https://github.com/rahultg1411) (`+91 78925 95235`)
+
+Tag: `Easy`
+
+### Description
+Discord and Telegram are two of the most popular real-time messaging platform with robust support for programmable bots.Bots are ubiquitous on Discord/Telegram and provide a wide range of services, including moderation assistance, games, music, internet searches, payment processing, and more. In this task, you are expected to create a interactive Discord/Telegram bot that displays interesting facts and information about a particular country. Users should be able to find the capital, currency, languages spoken, flag etc. Any additional features are appreciated and graded accordingly.You can use any freely available APIs to fetch information about a country. (Recommended: https://restcountries.com/)
+
+### Useful resources:
+These links might give you a direction
+* https://www.freecodecamp.org/news/create-a-discord-bot-with-javascript-nodejs/
+* https://realpython.com/how-to-make-a-discord-bot-python/
+* https://medium.com/ieee-manipal/build-a-telegram-bot-using-python-23b13549856f
+* There are many YouTube videos where you can take help from
+
+### Tips
+1. You are free to use any language/technology/framework of your choice.
+2. Any useful additional/interesting feature will have bonus points.
+3. Try to create a simple dashboard menu to perform different operations and make navigation easier.
+
 ## Task ID: NAME_OF_THE_TASK
 #### `Tag-1` `Tag-2`
 
