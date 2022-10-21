@@ -15,6 +15,7 @@
 | [Pokemon Wiki Using GraphQL](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-pokemon-wiki-using-graphql)        |
 | [Sentiment Analysis Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-sentiment-analysis-application)        |
 | [IRIS Forums Wireframe](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-iris-formus-wireframe)        |
+| [ERP for Pabbas](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-erp-for-pabbas)        |
 | [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
 
 
@@ -147,6 +148,27 @@ These links might give you a direction
 2. Try to match the designs with the IRIS UI.
 3. Bonus points for prototyping.
 4. Bonus points for coding the forntend in your desired language.
+
+## Task ID: ERP for Pabbas
+#### `Cross-Platform App`
+
+Mentors: [@Pranav Agarwal](https://github.com/pranav2305) (+91 8867137015), [@Rashmith](https://github.com/rashmiths) (+91 6362402817)
+
+Tag: `Medium`
+
+### Description
+Enterprise resource planning (ERP) refers to a type of software that organizations use to manage day-to-day business activities such as accounting, procurement, project management, risk management and compliance, and supply chain operations. A complete ERP suite also includes enterprise performance management, software that helps plan, budget, predict, and report on an organization’s financial results.
+
+Your task is to develop a cross-platform ERP system for Pabbas that includes functionalities such as expenditure tracking, inventory management, and billing. Please keep in mind that the application should operate on a desktop computer.
+### Useful resources:
+These links might give you a direction
+* https://clockwise.software/blog/how-to-build-erp-system/
+* https://appinventiv.com/blog/cross-platform-app-frameworks/
+* https://www.westagilelabs.com/blog/10-best-tools-to-develop-cross-platform-desktop-apps/
+
+### Tips
+1. You are free to use any language/technology/framework of your choice.
+2. Try to implement as many features of an ERP as possible.
 
 ## Task ID: NAME_OF_THE_TASK
 #### `Tag-1` `Tag-2`
