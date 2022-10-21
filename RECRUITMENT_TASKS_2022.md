@@ -166,9 +166,33 @@ These links might give you a direction
 * https://appinventiv.com/blog/cross-platform-app-frameworks/
 * https://www.westagilelabs.com/blog/10-best-tools-to-develop-cross-platform-desktop-apps/
 
+
 ### Tips
 1. You are free to use any language/technology/framework of your choice.
 2. Try to implement as many features of an ERP as possible.
+
+## Task ID: Online Multiplayer game 
+#### `Full-Stack Development` `Sockets` `Game Development`
+
+Mentors: [@Shash0501](https://github.com/Shash0501) (`9380435605`), [@Ashwin901](https://github.com/Ashwin901) (`9035797138`)
+
+Tag: `Hard`
+
+### Description
+Multiplayer games are games that can be played either competitively or cooperatively by multiple players, either locally or online. 
+Your task is to develop an online multiplayer game using websockets. The game should have a tournament system where users can create/join rooms and once the game starts players will be randomly paired with other players in the room and the winner will be decided based on the score. The game should be multiplayer and should have a leaderboard to keep track of the scores. The game can be any type of game Ex Tic-Ta-Toe etc. You can use any language/technology/framework of your choice.
+
+### Useful resources:
+These links might give you a direction
+* https://www.youtube.com/watch?v=aA_SdbGD64E
+* https://www.metered.ca/docs/Video-Calls/JavaScript/Building-a-Group-Video%E2%80%93Calling-Application/
+* https://bloggeek.me/what-is-webrtc/
+
+### Tips
+1. You are free to use any language/technology/framework of your choice
+2. The game should be multiplayer and should have a tournament system. 
+3. It should also have a leaderboard to keep track of the scores.
+4. The game can be any type of game Ex Tic-Ta-Toe etc.
 
 ## Task ID: NAME_OF_THE_TASK
 #### `Tag-1` `Tag-2`
