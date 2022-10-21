@@ -14,6 +14,7 @@
 | [Progressive Web application with OAuth](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-progressive-web-application-with-oauth)
 | [Pokemon Wiki Using GraphQL](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-pokemon-wiki-using-graphql)        |
 | [Sentiment Analysis Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-sentiment-analysis-application)        |
+| [IRIS Forums Wireframe](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-iris-formus-wireframe)        |
 | [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
 
 
@@ -123,6 +124,29 @@ These links might give you a direction
 5. There are npm packages available for ML.
 6. Variety in the sentiments captured will be awared bonus points. 
 
+## Task ID: IRIS Forums Wireframe
+#### `UI/UX`
+
+Mentors: [@Pranav Agarwal](https://github.com/pranav2305) (+91 8867137015), [@Rashmith](https://github.com/rashmiths) (+91 6362402817)
+
+Tag: `Medium`
+
+### Description
+A wireframe is a basic, two-dimensional visual representation of a web page, app interface, or product layout. You can think of it as a low-fidelity, functional sketch. Product designers and UX (user experience) professionals draw up wireframes to communicate how they plan to arrange and prioritize features, and how they intend for users to interact with its product or website.
+
+Your task is to design a wireframe for the IRIS forums mobile app based on the [IRIS NodeBB Forums Web App](https://forum.iris.nitk.ac.in/). The wireframe should include all of the web app's functionality.
+### Useful resources:
+These links might give you a direction
+* https://www.mockplus.com/blog/post/mobile-app-wireframing-guide
+* https://www.figma.com/blog/how-to-wireframe/
+* https://careerfoundry.com/en/blog/ux-design/free-wireframing-tools/
+* https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma
+
+### Tips
+1. Use your creativity to make the UI as appealing and simple to use as possible.
+2. Try to match the designs with the IRIS UI.
+3. Bonus points for prototyping.
+4. Bonus points for coding the forntend in your desired language.
 
 ## Task ID: NAME_OF_THE_TASK
 #### `Tag-1` `Tag-2`
