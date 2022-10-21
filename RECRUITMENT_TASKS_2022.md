@@ -18,7 +18,7 @@
 | [IRIS Forums Wireframe](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-iris-formus-wireframe)        |
 | [ERP for Pabbas](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-erp-for-pabbas)        |
 | [Online Multiplyer Game](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-online-multiplayer-game)        |
-| [Country Bot](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-online-country-bot)        |
+| [Country Bot](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/rahul-country-bot/RECRUITMENT_TASKS_2022.md#task-id-country-bot)        |
 [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
 
 
