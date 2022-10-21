@@ -14,8 +14,8 @@
 | [Progressive Web application with OAuth](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-progressive-web-application-with-oauth)
 | [Pokemon Wiki Using GraphQL](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-pokemon-wiki-using-graphql)        |
 | [Sentiment Analysis Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-sentiment-analysis-application)        |
+| [Path Finding Visualizer](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-path-finding-visualizer)        |
 | [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
-[Path Finding Visualizer](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-path-finding-visualizer)        |
 
 
 ## Task ID: File Upload Application
@@ -145,7 +145,6 @@ These links might give you a direction
 2. You are free to use any language/technology/framework of your choice.
 3. Users should be to select the algorithm of their choice.
 4. Users should be able to add obstructions in the path.
-
 
 
 ## Task ID: NAME_OF_THE_TASK
