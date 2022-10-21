@@ -102,9 +102,9 @@ Tag: `Hard`
 ### Description
 
 
-The [Codeforces API](https://codeforces.com/apiHelp) has been very useful for the competitive programming community. Lockout bots developed in Discord allow contestants to compete in exiting two-player contests.   
+The [Codeforces API](https://codeforces.com/apiHelp) has been very useful for the competitive programming community. Lockout bots developed in Discord allow contestants to compete in exiting two-player contests. 
 
-Your task is to a build a web application to play lockout games using the Codeforces API. The application should support mutliplayer games.
+Your task is to a build a web application to play lockout games using the Codeforces API. The application should support mutliplayer matches. Refer carefully to the rules of lockout matches while building the application. 
 
 ### Useful resources:
 * https://codeforces.com/blog/entry/78546
@@ -114,4 +114,5 @@ Your task is to a build a web application to play lockout games using the Codefo
 ### Tips
 1. Try to build the application for two players initially and then for multiple players.
 2. UI can be minimal, bonus points will be awarded if it good.
-3. You are free to use any framework of your choice.
+3. Bonus points for implementing authentication (similar to what is done by Discord bots)
+4. You are free to use any framework of your choice.
