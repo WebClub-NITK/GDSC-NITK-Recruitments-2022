@@ -15,7 +15,10 @@
 | [Pokemon Wiki Using GraphQL](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-pokemon-wiki-using-graphql)        |
 | [Sentiment Analysis Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-sentiment-analysis-application)        |
 | [Path Finding Visualizer](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-path-finding-visualizer)        |
-| [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
+| [IRIS Forums Wireframe](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-iris-formus-wireframe)        |
+| [ERP for Pabbas](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-erp-for-pabbas)        |
+| [Online Multiplyer Game](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-online-multiplayer-game)        |
+[Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
 
 
 ## Task ID: File Upload Application
@@ -146,6 +149,74 @@ These links might give you a direction
 3. Users should be to select the algorithm of their choice.
 4. Users should be able to add obstructions in the path.
 
+## Task ID: IRIS Forums Wireframe
+#### `UI/UX`
+
+Mentors: [@Pranav Agarwal](https://github.com/pranav2305) (+91 8867137015), [@Rashmith](https://github.com/rashmiths) (+91 6362402817)
+
+Tag: `Medium`
+
+### Description
+A wireframe is a basic, two-dimensional visual representation of a web page, app interface, or product layout. You can think of it as a low-fidelity, functional sketch. Product designers and UX (user experience) professionals draw up wireframes to communicate how they plan to arrange and prioritize features, and how they intend for users to interact with its product or website.
+
+Your task is to design a wireframe for the IRIS forums mobile app based on the [IRIS NodeBB Forums Web App](https://forum.iris.nitk.ac.in/). The wireframe should include all of the web app's functionality.
+### Useful resources:
+These links might give you a direction
+* https://www.mockplus.com/blog/post/mobile-app-wireframing-guide
+* https://www.figma.com/blog/how-to-wireframe/
+* https://careerfoundry.com/en/blog/ux-design/free-wireframing-tools/
+* https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma
+
+### Tips
+1. Use your creativity to make the UI as appealing and simple to use as possible.
+2. Try to match the designs with the IRIS UI.
+3. Bonus points for prototyping.
+4. Bonus points for coding the forntend in your desired language.
+
+## Task ID: ERP for Pabbas
+#### `Cross-Platform App`
+
+Mentors: [@Pranav Agarwal](https://github.com/pranav2305) (+91 8867137015), [@Rashmith](https://github.com/rashmiths) (+91 6362402817)
+
+Tag: `Medium`
+
+### Description
+Enterprise resource planning (ERP) refers to a type of software that organizations use to manage day-to-day business activities such as accounting, procurement, project management, risk management and compliance, and supply chain operations. A complete ERP suite also includes enterprise performance management, software that helps plan, budget, predict, and report on an organization’s financial results.
+
+Your task is to develop a cross-platform ERP system for Pabbas that includes functionalities such as expenditure tracking, inventory management, and billing. Please keep in mind that the application should operate on a desktop computer.
+### Useful resources:
+These links might give you a direction
+* https://clockwise.software/blog/how-to-build-erp-system/
+* https://appinventiv.com/blog/cross-platform-app-frameworks/
+* https://www.westagilelabs.com/blog/10-best-tools-to-develop-cross-platform-desktop-apps/
+
+
+### Tips
+1. You are free to use any language/technology/framework of your choice.
+2. Try to implement as many features of an ERP as possible.
+
+## Task ID: Online Multiplayer Game 
+#### `Full-Stack Development` `Sockets` `Game Development`
+
+Mentors: [@Shash0501](https://github.com/Shash0501) (`9380435605`), [@Ashwin901](https://github.com/Ashwin901) (`9035797138`)
+
+Tag: `Hard`
+
+### Description
+Multiplayer games are games that can be played either competitively or cooperatively by multiple players, either locally or online. 
+Your task is to develop an online multiplayer game using websockets. The game should have a tournament system where users can create/join rooms and once the game starts players will be randomly paired with other players in the room and the winner will be decided based on the score. The game should be multiplayer and should have a leaderboard to keep track of the scores. The game can be any type of game Ex Tic-Ta-Toe etc. You can use any language/technology/framework of your choice.
+
+### Useful resources:
+These links might give you a direction
+* https://www.youtube.com/watch?v=aA_SdbGD64E
+* https://www.metered.ca/docs/Video-Calls/JavaScript/Building-a-Group-Video%E2%80%93Calling-Application/
+* https://bloggeek.me/what-is-webrtc/
+
+### Tips
+1. You are free to use any language/technology/framework of your choice
+2. The game should be multiplayer and should have a tournament system. 
+3. It should also have a leaderboard to keep track of the scores.
+4. The game can be any type of game Ex Tic-Ta-Toe etc.
 
 ## Task ID: NAME_OF_THE_TASK
 #### `Tag-1` `Tag-2`
