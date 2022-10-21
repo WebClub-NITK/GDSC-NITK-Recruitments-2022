@@ -16,7 +16,8 @@
 | [Sentiment Analysis Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-sentiment-analysis-application)        |
 | [IRIS Forums Wireframe](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-iris-formus-wireframe)        |
 | [ERP for Pabbas](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-erp-for-pabbas)        |
-| [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
+| [Online Multiplyer Game](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-online-multiplayer-game)        |
+[Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
 
 
 ## Task ID: File Upload Application
@@ -171,7 +172,7 @@ These links might give you a direction
 1. You are free to use any language/technology/framework of your choice.
 2. Try to implement as many features of an ERP as possible.
 
-## Task ID: Online Multiplayer game 
+## Task ID: Online Multiplayer Game 
 #### `Full-Stack Development` `Sockets` `Game Development`
 
 Mentors: [@Shash0501](https://github.com/Shash0501) (`9380435605`), [@Ashwin901](https://github.com/Ashwin901) (`9035797138`)
