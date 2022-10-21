@@ -18,7 +18,8 @@
 | [IRIS Forums Wireframe](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-iris-formus-wireframe)        |
 | [ERP for Pabbas](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-erp-for-pabbas)        |
 | [Online Multiplyer Game](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-online-multiplayer-game)        |
-| [Country Bot](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/rahul-country-bot/RECRUITMENT_TASKS_2022.md#task-id-country-bot)        |
+| [Codeforces Lockout](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-codeforces-lockout)        |
+| [Country Bot](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-country-bot)        |
 [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
 
 
@@ -97,6 +98,7 @@ These links might give you a direction
 ### Tips
 1. The UI/UX of the wiki will be an important factor in the grading of this task
 2. You are free to use any language/technology/framework of your choice
+
 
 ## Task ID: Sentiment Analysis Application
 #### `web development` `ML`
@@ -218,6 +220,31 @@ These links might give you a direction
 2. The game should be multiplayer and should have a tournament system. 
 3. It should also have a leaderboard to keep track of the scores.
 4. The game can be any type of game Ex Tic-Ta-Toe etc.
+
+
+## Task ID: Codeforces Lockout
+#### `Web dev` `Websockets` `API`
+
+Mentors: [@Sushant S Rao](https://github.com/raosush) (`+91 99167 38256`), [@Rakshith Mohan](https://github.com/mrakshith21) (`+91 9535664371`)
+
+Tag: `Hard`
+
+### Description
+
+The [Codeforces API](https://codeforces.com/apiHelp) has been very useful for the competitive programming community. Lockout bots developed in Discord allow contestants to compete in exiting two-player contests. 
+
+Your task is to a build a web application to play lockout games using the Codeforces API. The application should support mutliplayer matches. Refer carefully to the rules of lockout matches while building the application. 
+
+### Useful resources:
+* https://codeforces.com/blog/entry/78546
+* https://socket.io/get-started/chat
+* https://www.youtube.com/watch?v=bBNIIg8REUU
+
+### Tips
+1. Try to build the application for two players initially and then for multiple players.
+2. UI can be minimal, bonus points will be awarded if it good.
+3. Bonus points for implementing authentication (similar to what is done by Discord bots)
+4. You are free to use any framework of your choice.
 
 ## Task ID: Country Bot
 #### `Discord Bot` `Telegram Bot` `APIs` `JavaScript` `Python`
