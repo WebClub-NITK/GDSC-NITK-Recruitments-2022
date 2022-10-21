@@ -12,6 +12,7 @@
 | ----------- |
 | [File Upload Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-file-upload-application)       |
 | [Progressive Web application with OAuth](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-progressive-web-application-with-oauth)
+| [Scheduling Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-regularise-stuff-cron-jobs-or-dags)
 | [Pokemon Wiki Using GraphQL](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-pokemon-wiki-using-graphql)        |
 | [Sentiment Analysis Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-sentiment-analysis-application)        |
 | [Path Finding Visualizer](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-path-finding-visualizer)        |
@@ -20,7 +21,8 @@
 | [Online Multiplyer Game](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-online-multiplayer-game)        |
 | [Codeforces Lockout](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-codeforces-lockout)        |
 | [Country Bot](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-country-bot)        |
-[Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
+| [Responsive Landing Page](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-responsive-landing-page)        |
+| [Task ID: Regularise Stuff - CRON Jobs or DAGs](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-regularise-stuff-cron-jobs-or-dags)        |
 
 
 ## Task ID: File Upload Application
@@ -288,24 +290,78 @@ These links might give you a direction
 2. You can create a simple dashboard to list all the habits of a particular user. 
 3. Bonus points for displaying statistics using graphs and any useful additional feature.
 
+## Task ID: Responsive Landing Page
+#### `UI/UX` , `Web-Development` , `Frontend-Development`, `API`
 
-## Task ID: NAME_OF_THE_TASK
-#### `Tag-1` `Tag-2`
+Mentors: [@Parth Mittal](https://github.com/mittal-parth) (`+91 9411327838`), [@Aditya R Rudra](https://github.com/adityaofficial10) (`+91 6260749212`)
 
-Mentors: [@Mentor-1](https://github.com/Mentor-1) (`Number`), [@Mentor-2](https://github.com/Mentor-2) (`Number`)
-
-Tag: `Difficulty_Level`
+Tag: `Easy-Medium`
 
 ### Description
-A Paragraph explaining the tech to be used/expected.
+A landing page is a single web page that often forms the first digital impression of a product to a user. It contains all the information necessary to attract the user and convert it into a sale. It contains the 'Call To Action' and can make or break the deal.
 
-A Paragraph about the task
+
+Build a landing page for any business/product. Fetch the data using any of the below mentioned APIs (one or more APIs from any _one_ category). For instance, a cinema hall would use any of the entertainment APIs to show the movies it displays.
+
+#### Entertainment
+- [Imgflip](https://imgflip.com/api) | Gets an array of popular memes
+- [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/) | Search events, attractions, or venues
+
+#### Sports & Fitness
+- [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Get information about Football Leagues & Cups
+- [Ergast F1](http://ergast.com/mrd/) | F1 data from the beginning of the world championships in 1950
+- [NBA Data](https://rapidapi.com/api-sports/api/api-nba/) | All NBA Stats DATA, Games, Livescore, Standings, Statistics
+- [Sportmonks Cricket](https://docs.sportmonks.com/cricket/) | Live cricket score, player statistics and fantasy API
+
+
+#### Games
+- [Clash of Clans](https://developer.clashofclans.com) | Clash of Clans Game Information
+- [Fortnite](https://fortnitetracker.com/site-api) | Fortnite Stats
+- [Marvel](https://developer.marvel.com) | Marvel Comics
+- [Pokéapi](https://pokeapi.co) | Pokémon Information
+- [Valorant (non-official)](https://valorant-api.com) | An extensive API containing data of most Valorant in-game items, assets and more
+
+
+#### Anime
+- [AniDB](https://wiki.anidb.net/HTTP_API_Definition) | Anime Database
+- [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news
+- [MangaDex](https://api.mangadex.org/docs.html) | Manga Database and Community
+- [MyAnimeList](https://myanimelist.net/clubs.php?cid=13727) | Anime and Manga Database and Community
+
+
 ### Useful resources:
 These links might give you a direction
-* Link-1
-* Link-2
+* Sample 1 - https://www.bluelearn.in/
+* Sample 2 - https://www.cuvette.tech/
 
 ### Tips
-1. Tip-1
-2. Tip-2
-3. Tip-3
+1. You are not limited by any language or technology.
+2. The primary focus is on the UI.
+3. You are free to chose the colour schemes, typeface, etc.
+4. All the sections need *not* fetch data from the API (only one or two would do)
+
+## Task ID: Regularise Stuff - CRON Jobs or DAGs
+#### `Cloud` , `Backend`, `AWS`, `CRON jobs`, `Scheduling`
+
+Mentors: [@Parth Mittal](https://github.com/mittal-parth) (`+91 9411327838`), [@Aditya R Rudra](https://github.com/adityaofficial10) (`+91 6260749212`)
+
+Tag: `Hard`
+
+### Description
+We often require the need for a task to be repeated after regular intervals. This is a simple problem that arises in almost every application. There are solutions available, primarily CRON jobs. This can also be implemented using Directed Acyclic Graphs(DAGs).
+
+Build a web backend using the language and framework of your choice that takes in a task description and schedules an email notification for the user, depending on the frequency specified by the user. You may use any of the two approaches specified above.
+
+Do not try to come up with custom implementations of any scheduling mechanism. Instead go for the established solutions that are available.
+
+### Useful resources:
+These links will help you get to terms with some of the available solutions:
+* AWS Eventbridge: CRON Jobs - https://amirmustafaofficial.medium.com/creating-cron-jobs-using-amazon-event-bridge-6fd6cfd6d0a2
+* Github Actions: CRON Jobs - https://docs.getnacelle.com/deployment/scheduled-builds-github-actions.html
+* Airflow DAGs: https://towardsdatascience.com/job-scheduling-with-apache-airflow-2-0-in-10-minutes-16d19f548a46
+
+### Tips
+1. You are not limited by any language or technology.
+2. The primary focus is on the scheduling.
+3. Bonus points for using Airflow or AWS.
+4. Most of the solutions provide SDKs in many languages. Feel free to explore any of them.
