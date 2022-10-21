@@ -243,3 +243,25 @@ Your task is to a build a web application to play lockout games using the Codefo
 2. UI can be minimal, bonus points will be awarded if it good.
 3. Bonus points for implementing authentication (similar to what is done by Discord bots)
 4. You are free to use any framework of your choice.
+
+
+## Task ID: NAME_OF_THE_TASK
+#### `Tag-1` `Tag-2`
+
+Mentors: [@Mentor-1](https://github.com/Mentor-1) (`Number`), [@Mentor-2](https://github.com/Mentor-2) (`Number`)
+
+Tag: `Difficulty_Level`
+
+### Description
+A Paragraph explaining the tech to be used/expected.
+
+A Paragraph about the task
+### Useful resources:
+These links might give you a direction
+* Link-1
+* Link-2
+
+### Tips
+1. Tip-1
+2. Tip-2
+3. Tip-3
