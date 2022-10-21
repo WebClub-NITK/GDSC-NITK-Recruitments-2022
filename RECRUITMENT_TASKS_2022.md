@@ -12,7 +12,6 @@
 | ----------- |
 | [File Upload Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-file-upload-application)       |
 | [Progressive Web application with OAuth](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-progressive-web-application-with-oauth)
-| [Scheduling Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-regularise-stuff-cron-jobs-or-dags)
 | [Pokemon Wiki Using GraphQL](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-pokemon-wiki-using-graphql)        |
 | [Sentiment Analysis Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-sentiment-analysis-application)        |
 | [Path Finding Visualizer](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-path-finding-visualizer)        |
@@ -21,8 +20,11 @@
 | [Online Multiplyer Game](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-online-multiplayer-game)        |
 | [Codeforces Lockout](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-codeforces-lockout)        |
 | [Country Bot](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-country-bot)        |
+| [Habit Tracker App](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-habit-tracker-app)        |
 | [Responsive Landing Page](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-responsive-landing-page)        |
 | [Regularise Stuff - CRON Jobs or DAGs](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-regularise-stuff---cron-jobs-or-dags)        |
+| [Feedback Form Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-feedback-form-application)
+
 
 
 ## Task ID: File Upload Application
@@ -365,3 +367,26 @@ These links will help you get to terms with some of the available solutions:
 2. The primary focus is on the scheduling.
 3. Bonus points for using Airflow or AWS.
 4. Most of the solutions provide SDKs in many languages. Feel free to explore any of them.
+
+## Task ID: Feedback Form Application
+#### `web development`
+
+Mentors: [@Ashwin901](https://github.com/Ashwin901) (+91 9035797138), [@SrijitaSarkar99](https://github.com/SrijitaSarkar99) (+91 9749299598)
+
+Tag: `Medium`
+
+### Description
+
+Your task is to build a Feedback Form application for a user to send feedback. Users will get to choose from the list of recipients available. Email of the same is to be sent to the respective receiver when a user submits a form. The application should have at least two pages. One of them displays past feedback forms submitted by the user.
+### Useful resources:
+
+These links might give you a direction
+- https://mailtrap.docs.apiary.io/#
+- https://www.youtube.com/watch?v=sGQSz22U8VM
+
+### Tips
+
+1. You may use any Framework and database of your choice.
+2. You may keep a minimal User Interface.
+3. Bonus points if there is a dashboard for every user and each user can update their own profile details.
+4. Bonus points if the application is deployed.
