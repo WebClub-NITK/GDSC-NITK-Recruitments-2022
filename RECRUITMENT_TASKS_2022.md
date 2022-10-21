@@ -12,7 +12,8 @@
 | ----------- |
 | [File Upload Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-file-upload-application)       |
 | [Progressive Web application with OAuth](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-progressive-web-application-with-oauth)
-| [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-responsive-landing-page)        |
+| [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-responsive-landing-page)  
+| [Scheduling Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-regularise-stuff-cron-jobs-or-dags)
 
 
 ## Task ID: File Upload Application
@@ -117,12 +118,12 @@ These links might give you a direction
 3. You are free to chose the colour schemes, typeface, etc.
 4. All the sections need *not* fetch data from the API (only one or two would do)
 
-## Task ID: Regularise Stuff: CRON Jobs or DAGs
+## Task ID: Regularise Stuff - CRON Jobs or DAGs
 #### `Cloud` , `Backend`, `AWS`, `CRON jobs`, `Scheduling`
 
 Mentors: [@Parth Mittal](https://github.com/mittal-parth) (`+91 9411327838`), [@Aditya R Rudra](https://github.com/adityaofficial10) (`+91 6260749212`)
 
-Tag: `Medium - Hard`
+Tag: `Hard`
 
 ### Description
 We often require the need for a task to be repeated after regular intervals. This is a simple problem that arises in almost every application. There are solutions available, primarily CRON jobs. This can also be implemented using Directed Acyclic Graphs(DAGs).
