@@ -42,6 +42,7 @@ In case of further queries post in the [Recruitment WhatsApp group](https://chat
 * Rashmith S (+91 6362402817)
 * Ashwin P (+91 9035797138)
 * Shashank SM (+91 9380435605)
+* R S Muthukumar (+91 8921472523)
 
 ### Connect
 Make sure to join the chapter [here](https://gdsc.community.dev/national-institute-of-technology-karnataka/) to never miss any updates and event notifications from GDSC-NITK.

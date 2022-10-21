@@ -14,6 +14,7 @@
 | [Progressive Web application with OAuth](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-progressive-web-application-with-oauth)
 | [Pokemon Wiki Using GraphQL](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-pokemon-wiki-using-graphql)        |
 | [Sentiment Analysis Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-sentiment-analysis-application)        |
+| [Path Finding Visualizer](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-path-finding-visualizer)        |
 | [IRIS Forums Wireframe](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-iris-formus-wireframe)        |
 | [ERP for Pabbas](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-erp-for-pabbas)        |
 | [Online Multiplyer Game](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-online-multiplayer-game)        |
@@ -125,6 +126,28 @@ These links might give you a direction
 4. Try using ML and NLP for determining the sentiments.
 5. There are npm packages available for ML.
 6. Variety in the sentiments captured will be awared bonus points. 
+
+## Task ID: Path Finding Visualizer
+#### `Front-End Development`
+
+Mentors: [@Shash0501](https://github.com/Shash0501) (`9380435605`), [@Ashwin901](https://github.com/Ashwin901) (`9035797138`)
+
+Tag: `Easy`
+
+### Description
+Path finding algorithms are used to find the shortest path between two points. In this task, you are expected to implement a path finding visualizer. The visualizer should be able to visualize the path finding process and the shortest path between two points. You can use any language or framework of your choice. User should be given a choice to add obstructions in the path.
+The visualizer should be able to find the shortest path between two points using the algorithm selected by the user.
+
+### Useful resources:
+These links might give you a direction
+* https://neo4j.com/developer/graph-data-science/path-finding-graph-algorithms/
+* https://p5js.org/
+
+### Tips
+1. The UI/UX of the application will be an important factor in the grading of this task.
+2. You are free to use any language/technology/framework of your choice.
+3. Users should be to select the algorithm of their choice.
+4. Users should be able to add obstructions in the path.
 
 ## Task ID: IRIS Forums Wireframe
 #### `UI/UX`
