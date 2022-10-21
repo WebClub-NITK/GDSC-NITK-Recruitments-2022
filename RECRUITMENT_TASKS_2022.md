@@ -15,6 +15,7 @@
 | [Pokemon Wiki Using GraphQL](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-pokemon-wiki-using-graphql)        |
 | [Sentiment Analysis Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-sentiment-analysis-application)        |
 | [Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
+[Path Finding Visualizer](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-path-finding-visualizer)        |
 
 
 ## Task ID: File Upload Application
@@ -123,7 +124,7 @@ These links might give you a direction
 5. There are npm packages available for ML.
 6. Variety in the sentiments captured will be awared bonus points. 
 
-## Task ID: path-finding-visualizer
+## Task ID: Path Finding Visualizer
 #### `Front-End Development`
 
 Mentors: [@Shash0501](https://github.com/Shash0501) (`9380435605`), [@Ashwin901](https://github.com/Ashwin901) (`9035797138`)
