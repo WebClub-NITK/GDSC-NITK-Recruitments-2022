@@ -116,3 +116,29 @@ These links might give you a direction
 2. The primary focus is on the UI.
 3. You are free to chose the colour schemes, typeface, etc.
 4. All the sections need *not* fetch data from the API (only one or two would do)
+
+## Task ID: Regularise Stuff: CRON Jobs or DAGs
+#### `Cloud` , `Backend`, `AWS`, `CRON jobs`, `Scheduling`
+
+Mentors: [@Parth Mittal](https://github.com/mittal-parth) (`+91 9411327838`), [@Aditya R Rudra](https://github.com/adityaofficial10) (`+91 6260749212`)
+
+Tag: `Medium - Hard`
+
+### Description
+We often require the need for a task to be repeated after regular intervals. This is a simple problem that arises in almost every application. There are solutions available, primarily CRON jobs. This can also be implemented using Directed Acyclic Graphs(DAGs).
+
+Build a web backend using the language and framework of your choice that takes in a task description and schedules an email notification for the user, depending on the frequency specified by the user. You may use any of the two approaches specified above.
+
+Do not try to come up with custom implementations of any scheduling mechanism. Instead go for the established solutions that are available.
+
+### Useful resources:
+These links will help you get to terms with some of the available solutions:
+* AWS Eventbridge: CRON Jobs - https://amirmustafaofficial.medium.com/creating-cron-jobs-using-amazon-event-bridge-6fd6cfd6d0a2
+* Github Actions: CRON Jobs - https://docs.getnacelle.com/deployment/scheduled-builds-github-actions.html
+* Airflow DAGs: https://towardsdatascience.com/job-scheduling-with-apache-airflow-2-0-in-10-minutes-16d19f548a46
+
+### Tips
+1. You are not limited by any language or technology.
+2. The primary focus is on the scheduling.
+3. Bonus points for using Airflow or AWS.
+4. Most of the solutions provide SDKs in many languages. Feel free to explore any of them.
