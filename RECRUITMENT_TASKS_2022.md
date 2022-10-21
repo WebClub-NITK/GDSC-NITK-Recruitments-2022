@@ -268,6 +268,27 @@ These links might give you a direction
 2. Any useful additional/interesting feature will have bonus points.
 3. Try to create a simple dashboard menu to perform different operations and make navigation easier.
 
+## Task ID: Habit Tracker App
+#### `API` `Web/App`
+
+Mentors: [Rashmith S](https://github.com/rashmiths) (`+91 63624 02817`), [Samhita R](https://github.com/sammyrengs) (`+91 99865 15607`)
+
+Tag: `Easy`
+
+### Description
+Habit Tracker Apps help users track how frequently they perform a particular activity or set of activities and helps them form habits. 
+You are expected to create a habit tracker application which allows the user to create and login to their profile and have numerous habits. Each habit should have a tracker where the user can update their progress which is implemented using any API of your choice. (Recommended: https://docs.pixe.la/). 
+### Useful resources:
+These links might give you a direction
+* https://blog.codemagic.io/rest-api-in-flutter/
+* https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/
+
+### Tips
+1. You are free to user any language/technology/framework of your choice.
+2. You can create a simple dashboard to list all the habits of a particular user. 
+3. Bonus points for displaying statistics using graphs and any useful additional feature.
+
+
 ## Task ID: NAME_OF_THE_TASK
 #### `Tag-1` `Tag-2`
 
