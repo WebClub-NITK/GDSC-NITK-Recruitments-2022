@@ -124,7 +124,7 @@ These links might give you a direction
 6. Variety in the sentiments captured will be awared bonus points. 
 
 ## Task ID: path-finding-visualizer
-#### `Front-End Developement`
+#### `Front-End Development`
 
 Mentors: [@Shash0501](https://github.com/Shash0501) (`9380435605`), [@Ashwin901](https://github.com/Ashwin901) (`9035797138`)
 
