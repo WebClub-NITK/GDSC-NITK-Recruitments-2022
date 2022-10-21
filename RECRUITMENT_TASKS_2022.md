@@ -123,6 +123,29 @@ These links might give you a direction
 5. There are npm packages available for ML.
 6. Variety in the sentiments captured will be awared bonus points. 
 
+## Task ID: path-finding-visualizer
+#### `Front-End Developement`
+
+Mentors: [@Shash0501](https://github.com/Shash0501) (`9380435605`), [@Ashwin901](https://github.com/Ashwin901) (`9035797138`)
+
+Tag: `Easy`
+
+### Description
+Path finding algorithms are used to find the shortest path between two points. In this task, you are expected to implement a path finding visualizer. The visualizer should be able to visualize the path finding process and the shortest path between two points. You can use any language or framework of your choice. User should be given a choice to add obstructions in the path.
+The visualizer should be able to find the shortest path between two points using the algorithm selected by the user.
+
+### Useful resources:
+These links might give you a direction
+* https://neo4j.com/developer/graph-data-science/path-finding-graph-algorithms/
+* https://p5js.org/
+
+### Tips
+1. The UI/UX of the application will be an important factor in the grading of this task.
+2. You are free to use any language/technology/framework of your choice.
+3. Users should be to select the algorithm of their choice.
+4. Users should be able to add obstructions in the path.
+
+
 
 ## Task ID: NAME_OF_THE_TASK
 #### `Tag-1` `Tag-2`
