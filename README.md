@@ -7,7 +7,7 @@
 #
 ### Recruitment Tasks
 * **Visit** : [Tasks](./RECRUITMENT_TASKS_2022.md)
-* Submission Deadline: **Yet to be decided**
+* Submission Deadline: **3rd November, 2022**
 
 ### Instructions
 1. Candidates can choose to take up any number of tasks.
@@ -32,8 +32,8 @@
 	* Have an understanding of the code or ideas used from external sources.
 	* **IMPORTANT**: Please give proper mention and references when using external sources i.e mention links to resource and developer name, star repos referred to, etc. during documentation.
 * Innovation shown in the task
-
-
+* **IMPORTANT:** Please add a video recording demonstrating your submission. 
+* Share your link if its deployed or share the APK.
 ### Submission
 Fill this [form](https://forms.gle/C1b8Bb1uUkFfFAYM9) on or before the deadline date. ( Form to be added )
 
