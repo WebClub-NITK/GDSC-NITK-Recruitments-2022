@@ -15,7 +15,7 @@
 | [Pokemon Wiki Using GraphQL](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-pokemon-wiki-using-graphql)        |
 | [Sentiment Analysis Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-sentiment-analysis-application)        |
 | [Path Finding Visualizer](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-path-finding-visualizer)        |
-| [IRIS Forums Wireframe](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-iris-formus-wireframe)        |
+| [Forums Wireframe](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-iris-formus-wireframe)        |
 | [ERP for Pabbas](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-erp-for-pabbas)        |
 | [Online Multiplyer Game](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-online-multiplayer-game)        |
 | [Codeforces Lockout](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-codeforces-lockout)        |
@@ -26,6 +26,29 @@
 | [Feedback Form Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-feedback-form-application)
 
 
+## Task ID: Pokemon Wiki Using GraphQL
+#### `UI/UX` `Web/Mobile` `API`
+
+Mentors: [@Abdullah Rafi](https://github.com/abdullah1308) (+91 9361225834), [Niraj Nandish](https://github.com/Nirajn2311) (+91 8197416082)
+
+Tag: `Easy`
+
+### Description
+GraphQL is a query language for APIs, and a server-side runtime for executing queries using a user-defined type system. 
+
+Your task is to build a Pokemon wiki by consuming the following GraphQL API - https://studio.apollographql.com/sandbox/explorer. 
+
+You may consume addtional APIs (non GraphQL included) and display information on the wiki.
+### Useful resources:
+These links might give you a direction
+* https://graphql.org/learn
+* https://www.howtographql.com
+* https://youtu.be/BcLNfwF04Kw
+* https://youtu.be/7wzR4Ig5pTI
+
+### Tips
+1. The UI/UX of the wiki will be an important factor in the grading of this task
+2. You are free to use any language/technology/framework of your choice
 
 ## Task ID: File Upload Application
 #### `web development` `firebase`
@@ -39,7 +62,7 @@ Firebase has been growing in popularity over the years, thanks to its features t
 
 Your task is to come up with a web application, where-in, you can upload files to firebase. This application must support user authentication (different options to login ex: google sign in, phone authentication are expected along with email password), ability to download files and upload files and viewing the uploaded file.
 
-The files must be uploaded to firebase, you are free to use any frontend framework of your choice. There shoudl be a dashboard for every user and each user can see only thier own files.
+The files must be uploaded to firebase, you are free to use any frontend framework of your choice. There should be a dashboard for every user and each user can see only their own files. Users should be able to create groups and add participants in which the participants can access and upload files.
 
 ### Useful resources:
 These links might give you a direction
@@ -80,29 +103,6 @@ Optionally, you can also utilise some of the features PWAs make way for such as 
 2. Bonus points if the application has features such as file system access, media access, etc.
 3. UI can be fairly basic and there is no restriction on the technology to be used.
 
-## Task ID: Pokemon Wiki Using GraphQL
-#### `UI/UX` `Web/Mobile` `API`
-
-Mentors: [@Abdullah Rafi](https://github.com/abdullah1308) (+91 9361225834), [Niraj Nandish](https://github.com/Nirajn2311) (+91 8197416082)
-
-Tag: `Easy`
-
-### Description
-GraphQL is a query language for APIs, and a server-side runtime for executing queries using a user-defined type system. 
-
-Your task is to build a Pokemon wiki by consuming the following GraphQL API - https://studio.apollographql.com/sandbox/explorer. 
-
-You may consume addtional APIs (non GraphQL included) and display information on the wiki.
-### Useful resources:
-These links might give you a direction
-* https://graphql.org/learn
-* https://www.howtographql.com
-* https://youtu.be/BcLNfwF04Kw
-* https://youtu.be/7wzR4Ig5pTI
-
-### Tips
-1. The UI/UX of the wiki will be an important factor in the grading of this task
-2. You are free to use any language/technology/framework of your choice
 
 
 ## Task ID: Sentiment Analysis Application
@@ -233,7 +233,7 @@ Tag: `Hard`
 
 The [Codeforces API](https://codeforces.com/apiHelp) has been very useful for the competitive programming community. Lockout bots developed in Discord allow contestants to compete in exciting two-player contests. 
 
-Your task is to a build a web application to play lockout games using the Codeforces API. Refer carefully to the rules of lockout matches while building the application. Implement authentication where users should be able to link thier codeforces profile to the application. Any user should be able to invite other players to join them on a knockout match. The application should pick up problems that none of the players have attempted before. 
+Your task is to a build a web application to play lockout games using the Codeforces API. Refer carefully to the rules of lockout matches while building the application. Implement authentication where users should be able to link their codeforces profile to the application. Any user should be able to invite other players to join them on a knockout match. The application should pick up problems that none of the players have attempted before. 
 
 User should be able to specify rating, tags, etc to filter the questions.
 
@@ -280,9 +280,9 @@ Tag: `Medium`
 
 ### Description
 Habit Tracker Apps help users track how frequently they perform a particular activity or set of activities and helps them form habits. 
-You are expected to create a habit tracker application which allows the user to create and login to their profile and have numerous habits. Each habit should have a tracker where the user can update their progress. The application should make use of [this api](https://docs.pixe.la/). 
+You are expected to create a habit tracker application which allows the user to create and login to their profile and have numerous habits. Each habit should have a tracker where the user can update their progress. The application should built around [this api](https://docs.pixe.la/). Participants can be creative with the way they show statistical information about different habits.
 
-It is adviced to have a local backup using SQL, Hive etc. Users should be able to start/stop timers for a particular habit and the tracker should be automatically updated.
+It is advised to have a local backup using SQL, Hive etc.
 
 ### Useful resources:
 These links might give you a direction
@@ -299,7 +299,7 @@ These links might give you a direction
 
 Mentors: [@Parth Mittal](https://github.com/mittal-parth) (`+91 9411327838`), [@Aditya R Rudra](https://github.com/adityaofficial10) (`+91 6260749212`)
 
-Tag: `Easy-Medium`
+Tag: `Easy`
 
 ### Description
 A landing page is a single web page that often forms the first digital impression of a product to a user. It contains all the information necessary to attract the user and convert it into a sale. It contains the 'Call To Action' and can make or break the deal.
@@ -343,7 +343,7 @@ These links might give you a direction
 2. The primary focus is on the UI.
 3. You are free to chose the colour schemes, typeface, etc.
 4. All the sections need *not* fetch data from the API (only one or two would do)
-5. Although the task is labelled easy, you will be evaluated on the complexity of UI.
+5. **IMPORTANT** Although the task is labelled easy, it can be evaluated as a medium task based on the creativity and complexity of UI.
 
 ## Task ID: Scheduling CRON Jobs
 #### `Cloud` , `Backend`, `CRON jobs`, `Scheduling`
