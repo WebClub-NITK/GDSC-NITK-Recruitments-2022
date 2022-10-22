@@ -36,7 +36,7 @@ Tag: `Easy`
 ### Description
 GraphQL is a query language for APIs, and a server-side runtime for executing queries using a user-defined type system. 
 
-Your task is to build a Pokemon wiki by consuming the following GraphQL API - https://studio.apollographql.com/sandbox/explorer. 
+Your task is to build a Pokemon wiki by consuming the following GraphQL API - https://studio.apollographql.com/sandbox/schema/reference 
 
 You may consume addtional APIs (non GraphQL included) and display information on the wiki.
 ### Useful resources:
