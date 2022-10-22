@@ -15,13 +15,40 @@
 | [Pokemon Wiki Using GraphQL](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-pokemon-wiki-using-graphql)        |
 | [Sentiment Analysis Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-sentiment-analysis-application)        |
 | [Path Finding Visualizer](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-path-finding-visualizer)        |
-| [IRIS Forums Wireframe](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-iris-formus-wireframe)        |
+| [Forums Wireframe](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-iris-formus-wireframe)        |
 | [ERP for Pabbas](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-erp-for-pabbas)        |
 | [Online Multiplyer Game](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-online-multiplayer-game)        |
 | [Codeforces Lockout](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-codeforces-lockout)        |
 | [Country Bot](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-country-bot)        |
-[Next Project](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-name_of_the_task)        |
+| [Habit Tracker App](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-habit-tracker-app)        |
+| [Responsive Landing Page](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-responsive-landing-page)        |
+| [Regularise Stuff - CRON Jobs or DAGs](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-regularise-stuff---cron-jobs-or-dags)        |
+| [Feedback Form Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-feedback-form-application)
 
+
+## Task ID: Pokemon Wiki Using GraphQL
+#### `UI/UX` `Web/Mobile` `API`
+
+Mentors: [@Abdullah Rafi](https://github.com/abdullah1308) (+91 9361225834), [Niraj Nandish](https://github.com/Nirajn2311) (+91 8197416082)
+
+Tag: `Easy`
+
+### Description
+GraphQL is a query language for APIs, and a server-side runtime for executing queries using a user-defined type system. 
+
+Your task is to build a Pokemon wiki by consuming the following GraphQL API - https://studio.apollographql.com/sandbox/explorer. 
+
+You may consume addtional APIs (non GraphQL included) and display information on the wiki.
+### Useful resources:
+These links might give you a direction
+* https://graphql.org/learn
+* https://www.howtographql.com
+* https://youtu.be/BcLNfwF04Kw
+* https://youtu.be/7wzR4Ig5pTI
+
+### Tips
+1. The UI/UX of the wiki will be an important factor in the grading of this task
+2. You are free to use any language/technology/framework of your choice
 
 ## Task ID: File Upload Application
 #### `web development` `firebase`
@@ -35,7 +62,8 @@ Firebase has been growing in popularity over the years, thanks to its features t
 
 Your task is to come up with a web application, where-in, you can upload files to firebase. This application must support user authentication (different options to login ex: google sign in, phone authentication are expected along with email password), ability to download files and upload files and viewing the uploaded file.
 
-The files must be uploaded to firebase, you are free to use any frontend framework of your choice.
+The files must be uploaded to firebase, you are free to use any frontend framework of your choice. There should be a dashboard for every user and each user can see only their own files. Users should be able to create groups and add participants in which the participants can access and upload files.
+
 ### Useful resources:
 These links might give you a direction
 * https://firebase.google.com/
@@ -45,7 +73,7 @@ These links might give you a direction
 ### Tips
 1. You are not limited by any language or technology.
 2. Focus on the UI part.
-3. Bonus points if there is a dashboard for every user and each user can see only thier own files.
+3. Bonus points if there is a sharable link.
 
 ## Task ID: Progressive Web Application with OAuth
 
@@ -75,29 +103,6 @@ Optionally, you can also utilise some of the features PWAs make way for such as 
 2. Bonus points if the application has features such as file system access, media access, etc.
 3. UI can be fairly basic and there is no restriction on the technology to be used.
 
-## Task ID: Pokemon Wiki Using GraphQL
-#### `UI/UX` `Web/Mobile` `API`
-
-Mentors: [@Abdullah Rafi](https://github.com/abdullah1308) (+91 9361225834), [Niraj Nandish](https://github.com/Nirajn2311) (+91 8197416082)
-
-Tag: `Easy`
-
-### Description
-GraphQL is a query language for APIs, and a server-side runtime for executing queries using a user-defined type system. 
-
-Your task is to build a Pokemon wiki by consuming the following GraphQL API - https://studio.apollographql.com/sandbox/explorer. 
-
-You may consume addtional APIs (non GraphQL included) and display information on the wiki.
-### Useful resources:
-These links might give you a direction
-* https://graphql.org/learn
-* https://www.howtographql.com
-* https://youtu.be/BcLNfwF04Kw
-* https://youtu.be/7wzR4Ig5pTI
-
-### Tips
-1. The UI/UX of the wiki will be an important factor in the grading of this task
-2. You are free to use any language/technology/framework of your choice
 
 
 ## Task ID: Sentiment Analysis Application
@@ -119,7 +124,7 @@ Your task is to develop an application to determine the sentiment of the reviews
 These links might give you a direction
 * https://monkeylearn.com/sentiment-analysis/#:~:text=Sentiment%20analysis%20(or%20opinion%20mining,feedback%2C%20and%20understand%20customer%20needs.
 * https://lazarinastoy.com/sentiment-analysis-theory-methods-applications/
-* https://blog.logrocket.com/sentiment-analysis-node-js/
+* https://www.npmjs.com/package/natural#sentiment-analysis
 * https://techvidvan.com/tutorials/python-sentiment-analysis/
 
 ### Tips
@@ -128,18 +133,18 @@ These links might give you a direction
 3. Make sure to use a large dataset for more accuracy(if used).
 4. Try using ML and NLP for determining the sentiments.
 5. There are npm packages available for ML.
-6. Variety in the sentiments captured will be awared bonus points. 
+6. Variety in the sentiments captured will be awarded bonus points. 
 
 ## Task ID: Path Finding Visualizer
 #### `Front-End Development`
 
-Mentors: [@Shash0501](https://github.com/Shash0501) (`9380435605`), [@Ashwin901](https://github.com/Ashwin901) (`9035797138`)
+Mentors: [@Shash0501](https://github.com/Shash0501) (9380435605), [@Ashwin901](https://github.com/Ashwin901) (9035797138)
 
 Tag: `Easy`
 
 ### Description
 Path finding algorithms are used to find the shortest path between two points. In this task, you are expected to implement a path finding visualizer. The visualizer should be able to visualize the path finding process and the shortest path between two points. You can use any language or framework of your choice. User should be given a choice to add obstructions in the path.
-The visualizer should be able to find the shortest path between two points using the algorithm selected by the user.
+The visualizer should be able to find the shortest path between two points using the algorithm selected by the user. Users should be able to select the algorithm of their choice, and also add obstructions in the path.
 
 ### Useful resources:
 These links might give you a direction
@@ -149,10 +154,8 @@ These links might give you a direction
 ### Tips
 1. The UI/UX of the application will be an important factor in the grading of this task.
 2. You are free to use any language/technology/framework of your choice.
-3. Users should be to select the algorithm of their choice.
-4. Users should be able to add obstructions in the path.
 
-## Task ID: IRIS Forums Wireframe
+## Task ID: Forums Wireframe
 #### `UI/UX`
 
 Mentors: [@Pranav Agarwal](https://github.com/pranav2305) (+91 8867137015), [@Rashmith](https://github.com/rashmiths) (+91 6362402817)
@@ -162,7 +165,7 @@ Tag: `Medium`
 ### Description
 A wireframe is a basic, two-dimensional visual representation of a web page, app interface, or product layout. You can think of it as a low-fidelity, functional sketch. Product designers and UX (user experience) professionals draw up wireframes to communicate how they plan to arrange and prioritize features, and how they intend for users to interact with its product or website.
 
-Your task is to design a wireframe for the IRIS forums mobile app based on the [IRIS NodeBB Forums Web App](https://forum.iris.nitk.ac.in/). The wireframe should include all of the web app's functionality.
+Your task is to design a wireframe for the forums mobile app based on the [NodeBB Forums Web App](https://forum.iris.nitk.ac.in/). The wireframe should include all of the web app's functionality.
 ### Useful resources:
 These links might give you a direction
 * https://www.mockplus.com/blog/post/mobile-app-wireframing-guide
@@ -172,9 +175,8 @@ These links might give you a direction
 
 ### Tips
 1. Use your creativity to make the UI as appealing and simple to use as possible.
-2. Try to match the designs with the IRIS UI.
-3. Bonus points for prototyping.
-4. Bonus points for coding the forntend in your desired language.
+2. Bonus points for prototyping.
+3. Bonus points for coding the frontend in your desired language.
 
 ## Task ID: ERP for Pabbas
 #### `Cross-Platform App`
@@ -184,7 +186,7 @@ Mentors: [@Pranav Agarwal](https://github.com/pranav2305) (+91 8867137015), [@Ra
 Tag: `Medium`
 
 ### Description
-Enterprise resource planning (ERP) refers to a type of software that organizations use to manage day-to-day business activities such as accounting, procurement, project management, risk management and compliance, and supply chain operations. A complete ERP suite also includes enterprise performance management, software that helps plan, budget, predict, and report on an organization’s financial results.
+Enterprise resource planning (ERP) refers to a type of software that organizations use to manage day-to-day business activities such as accounting, procurement, project management, risk management and compliance, and supply chain operations. A complete ERP suite also includes enterprise performance management, software that helps plan, budget, and report on an organization’s financial results.
 
 Your task is to develop a cross-platform ERP system for Pabbas that includes functionalities such as expenditure tracking, inventory management, and billing. Please keep in mind that the application should operate on a desktop computer.
 ### Useful resources:
@@ -201,13 +203,13 @@ These links might give you a direction
 ## Task ID: Online Multiplayer Game 
 #### `Full-Stack Development` `Sockets` `Game Development`
 
-Mentors: [@Shash0501](https://github.com/Shash0501) (`9380435605`), [@Ashwin901](https://github.com/Ashwin901) (`9035797138`)
+Mentors: [@Shash0501](https://github.com/Shash0501) (+91 9380435605), [@Ashwin901](https://github.com/Ashwin901) (+91 9035797138)
 
 Tag: `Hard`
 
 ### Description
 Multiplayer games are games that can be played either competitively or cooperatively by multiple players, either locally or online. 
-Your task is to develop an online multiplayer game using websockets. The game should have a tournament system where users can create/join rooms and once the game starts players will be randomly paired with other players in the room and the winner will be decided based on the score. The game should be multiplayer and should have a leaderboard to keep track of the scores. The game can be any type of game Ex Tic-Ta-Toe etc. You can use any language/technology/framework of your choice.
+Your task is to develop an online multiplayer game using websockets. The game should have a tournament system where users can create/join rooms and once the game starts players will be randomly paired with other players in the room and the winner will be decided based on the score. The game should be multiplayer and should have a leaderboard to keep track of the scores. The game can be any type of game Ex Tic-Tac-Toe, Chess etc. You can use any language/technology/framework of your choice.
 
 ### Useful resources:
 These links might give you a direction
@@ -217,23 +219,23 @@ These links might give you a direction
 
 ### Tips
 1. You are free to use any language/technology/framework of your choice
-2. The game should be multiplayer and should have a tournament system. 
-3. It should also have a leaderboard to keep track of the scores.
-4. The game can be any type of game Ex Tic-Ta-Toe etc.
+2. The game can be any type of game Ex Tic-Tac-Toe etc.
 
 
 ## Task ID: Codeforces Lockout
 #### `Web dev` `Websockets` `API`
 
-Mentors: [@Sushant S Rao](https://github.com/raosush) (`+91 99167 38256`), [@Rakshith Mohan](https://github.com/mrakshith21) (`+91 9535664371`)
+Mentors: [@Sushanth S Rao](https://github.com/raosush) (+91 9916738256), [@Rakshith Mohan](https://github.com/mrakshith21) (+91 9535664371)
 
 Tag: `Hard`
 
 ### Description
 
-The [Codeforces API](https://codeforces.com/apiHelp) has been very useful for the competitive programming community. Lockout bots developed in Discord allow contestants to compete in exiting two-player contests. 
+The [Codeforces API](https://codeforces.com/apiHelp) has been very useful for the competitive programming community. Lockout bots developed in Discord allow contestants to compete in exciting two-player contests. 
 
-Your task is to a build a web application to play lockout games using the Codeforces API. The application should support mutliplayer matches. Refer carefully to the rules of lockout matches while building the application. 
+Your task is to a build a web application to play lockout games using the Codeforces API. Refer carefully to the rules of lockout matches while building the application. Implement authentication where users should be able to link their codeforces profile to the application. Any user should be able to invite other players to join them on a knockout match. The application should pick up problems that none of the players have attempted before. 
+
+User should be able to specify rating, tags, etc to filter the questions.
 
 ### Useful resources:
 * https://codeforces.com/blog/entry/78546
@@ -243,30 +245,154 @@ Your task is to a build a web application to play lockout games using the Codefo
 ### Tips
 1. Try to build the application for two players initially and then for multiple players.
 2. UI can be minimal, bonus points will be awarded if it good.
-3. Bonus points for implementing authentication (similar to what is done by Discord bots)
-4. You are free to use any framework of your choice.
+3. You are free to use any framework of your choice.
+4. Support multi-player matches. 
 
 ## Task ID: Country Bot
-#### `Discord Bot` `Telegram Bot` `APIs` `JavaScript` `Python`
+#### `Telegram Bot` `APIs` `JavaScript` `Python`
 
 Mentors: [Rajan Jaiswal](https://github.com/rj-since-2000) (`+91 95653 43771`), [Rahul Gonchikar](https://github.com/rahultg1411) (`+91 78925 95235`)
 
 Tag: `Easy`
 
 ### Description
-Discord and Telegram are two of the most popular real-time messaging platform with robust support for programmable bots.Bots are ubiquitous on Discord/Telegram and provide a wide range of services, including moderation assistance, games, music, internet searches, payment processing, and more. In this task, you are expected to create a interactive Discord/Telegram bot that displays interesting facts and information about a particular country. Users should be able to find the capital, currency, languages spoken, flag etc. Any additional features are appreciated and graded accordingly.You can use any freely available APIs to fetch information about a country. (Recommended: https://restcountries.com/)
+Telegram is one of the most popular real-time messaging platform with robust support for programmable bots.Bots are ubiquitous on Telegram and provide a wide range of services, including moderation assistance, games, music, internet searches, payment processing, and more. 
+
+In this task, you are expected to create a interactive Telegram bot that displays interesting facts and information about a particular country. Users should be able to find the capital, currency, languages spoken, flag etc. Any additional features are appreciated and graded accordingly.You can use any freely available APIs to fetch information about a country. (Recommended: https://restcountries.com/)
 
 ### Useful resources:
 These links might give you a direction
-* https://www.freecodecamp.org/news/create-a-discord-bot-with-javascript-nodejs/
-* https://realpython.com/how-to-make-a-discord-bot-python/
 * https://medium.com/ieee-manipal/build-a-telegram-bot-using-python-23b13549856f
-* There are many YouTube videos where you can take help from.
+* https://www.section.io/engineering-education/telegram-bot-in-nodejs/
 
 ### Tips
+
 1. You are free to use any language/technology/framework of your choice.
 2. Any useful additional/interesting feature will have bonus points.
 3. Try to create a simple dashboard menu to perform different operations and make navigation easier.
+
+## Task ID: Habit Tracker App
+#### `API` `Web/App`
+
+Mentors: [Rashmith S](https://github.com/rashmiths) (`+91 6362402817`), [Samhita R](https://github.com/sammyrengs) (`+91 9986515607`)
+
+Tag: `Medium`
+
+### Description
+Habit Tracker Apps help users track how frequently they perform a particular activity or set of activities and helps them form habits. 
+You are expected to create a habit tracker application which allows the user to create and login to their profile and have numerous habits. Each habit should have a tracker where the user can update their progress. The application should built around [this api](https://docs.pixe.la/). Participants can be creative with the way they show statistical information about different habits.
+
+It is advised to have a local backup using SQL, Hive etc.
+
+### Useful resources:
+These links might give you a direction
+* https://blog.codemagic.io/rest-api-in-flutter/
+* https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/
+
+### Tips
+1. You are free to user any language/technology/framework of your choice.
+2. You can create a simple dashboard to list all the habits of a particular user. 
+3. Bonus points for displaying statistics using graphs and any useful additional feature.
+
+## Task ID: Responsive Landing Page
+#### `UI/UX` , `Web-Development` , `Frontend-Development`, `API`
+
+Mentors: [@Parth Mittal](https://github.com/mittal-parth) (`+91 9411327838`), [@Aditya R Rudra](https://github.com/adityaofficial10) (`+91 6260749212`)
+
+Tag: `Easy`
+
+### Description
+A landing page is a single web page that often forms the first digital impression of a product to a user. It contains all the information necessary to attract the user and convert it into a sale. It contains the 'Call To Action' and can make or break the deal.
+
+
+Build a landing page for any business/product. Fetch the data using any of the below mentioned APIs (one or more APIs from any _one_ category). For instance, a cinema hall would use any of the entertainment APIs to show the movies it displays.
+
+#### Entertainment
+- [Imgflip](https://imgflip.com/api) | Gets an array of popular memes
+- [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/) | Search events, attractions, or venues
+
+#### Sports & Fitness
+- [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Get information about Football Leagues & Cups
+- [Ergast F1](http://ergast.com/mrd/) | F1 data from the beginning of the world championships in 1950
+- [NBA Data](https://rapidapi.com/api-sports/api/api-nba/) | All NBA Stats DATA, Games, Livescore, Standings, Statistics
+- [Sportmonks Cricket](https://docs.sportmonks.com/cricket/) | Live cricket score, player statistics and fantasy API
+
+
+#### Games
+- [Clash of Clans](https://developer.clashofclans.com) | Clash of Clans Game Information
+- [Fortnite](https://fortnitetracker.com/site-api) | Fortnite Stats
+- [Marvel](https://developer.marvel.com) | Marvel Comics
+- [Pokéapi](https://pokeapi.co) | Pokémon Information
+- [Valorant (non-official)](https://valorant-api.com) | An extensive API containing data of most Valorant in-game items, assets and more
+
+
+#### Anime
+- [AniDB](https://wiki.anidb.net/HTTP_API_Definition) | Anime Database
+- [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news
+- [MangaDex](https://api.mangadex.org/docs.html) | Manga Database and Community
+- [MyAnimeList](https://myanimelist.net/clubs.php?cid=13727) | Anime and Manga Database and Community
+
+
+### Useful resources:
+These links might give you a direction
+* Sample 1 - https://www.bluelearn.in/
+* Sample 2 - https://www.cuvette.tech/
+
+### Tips
+1. You are not limited by any language or technology.
+2. The primary focus is on the UI.
+3. You are free to chose the colour schemes, typeface, etc.
+4. All the sections need *not* fetch data from the API (only one or two would do)
+5. **IMPORTANT** Although the task is labelled easy, it can be evaluated as a medium task based on the creativity and complexity of UI.
+
+## Task ID: Scheduling CRON Jobs
+#### `Cloud` , `Backend`, `CRON jobs`, `Scheduling`
+
+Mentors: [@Parth Mittal](https://github.com/mittal-parth) (`+91 9411327838`), [@Aditya R Rudra](https://github.com/adityaofficial10) (`+91 6260749212`)
+
+Tag: `Medium`
+
+### Description
+We often require the need for a task to be repeated after regular intervals. This is a simple problem that arises in almost every application. There are solutions available, primarily CRON jobs.
+
+Build a web backend using the language and framework of your choice that takes in a task description and schedules an email notification for the user, depending on the frequency specified by the user. You may use any of the two approaches specified above.
+
+Do not try to come up with custom implementations of any scheduling mechanism. Instead go for the established solutions that are available.
+
+### Useful resources:
+These links will help you get to terms with some of the available solutions:
+* Github Actions: CRON Jobs - https://docs.getnacelle.com/deployment/scheduled-builds-github-actions.html
+* https://www.javatpoint.com/what-is-cron-job
+
+### Tips
+1. You are not limited by any language or technology.
+2. The primary focus is on the scheduling.
+3. Bonus points for using Airflow or AWS.
+4. Most of the solutions provide SDKs in many languages. Feel free to explore any of them.
+
+## Task ID: Feedback Form Application
+#### `web development` `full-stack web development`
+
+Mentors: [@Ashwin901](https://github.com/Ashwin901) (+91 9035797138), [@SrijitaSarkar99](https://github.com/SrijitaSarkar99) (+91 9749299598)
+
+Tag: `Medium`
+
+### Description
+
+Your task is to build a Feedback Form application for a user to send feedback. Users invited to fill the form should get appropriate emails. Email of the same is to be sent to the respective receiver when a user submits a form. There should be a dashboard that displays the past forms created/submitted by the user.
+
+### Useful resources:
+
+These links might give you a direction
+- https://mailtrap.docs.apiary.io/#
+- https://www.youtube.com/watch?v=sGQSz22U8VM
+
+### Tips
+
+1. You may use any Framework and database of your choice.
+2. You may keep a minimal User Interface.
+3. Bonus if there is statistical information available for the form to the form creator.
+
 
 ## Task ID: Custom Reddit Client
 
@@ -310,24 +436,3 @@ These links might give you a direction
 * [Django](https://www.djangoproject.com/)
 
 or any other framework that you wish to use.
-
-## Task ID: NAME_OF_THE_TASK
-#### `Tag-1` `Tag-2`
-
-Mentors: [@Mentor-1](https://github.com/Mentor-1) (`Number`), [@Mentor-2](https://github.com/Mentor-2) (`Number`)
-
-Tag: `Difficulty_Level`
-
-### Description
-A Paragraph explaining the tech to be used/expected.
-
-A Paragraph about the task
-### Useful resources:
-These links might give you a direction
-* Link-1
-* Link-2
-
-### Tips
-1. Tip-1
-2. Tip-2
-3. Tip-3
