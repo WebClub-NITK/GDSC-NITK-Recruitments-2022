@@ -268,6 +268,49 @@ These links might give you a direction
 2. Any useful additional/interesting feature will have bonus points.
 3. Try to create a simple dashboard menu to perform different operations and make navigation easier.
 
+## Task ID: Custom Reddit Client
+
+#### `ui/ux` `web dev` `app dev` `apis`
+
+Mentors: [Anirudh Prabhakaran](https://github.com/anirudhprabhakaran3) (`+91 88267 67787`)
+
+Tag: `Medium`
+
+### Description
+Reddit is one of the most popular social media services. Based on the uniqueness of distributing content into interest based communities, it is easily one of the best loved applications in the world. Along with the official products, many people have made their own clients, that add some new features to the official products, or change the way some things work.
+
+In this task, you have to develop your own client. It can be a web app or a mobile app. The bare necessities include the home screen, searching subreddits, sorting a subreddit by new, top, etc. Added bonus would be if you can show the user's personal homepage by having them log in, show their profile and saved posts as well. Ensure your submission has a good UI/UX.
+
+### Useful Resources
+These links might give you a direction
+* [Reddit API](https://www.reddit.com/dev/api/)
+* [Flutter](https://flutter.dev/)
+* [Django](https://www.djangoproject.com/)
+
+or any other framework that you wish to use.
+
+
+## Task ID: Bug Tracker
+
+#### `ui/ux` `web dev` `app dev`
+
+Mentors: [Anirudh Prabhakaran](https://github.com/anirudhprabhakaran3) (`+91 88267 67787`)
+
+Tag: `Easy`
+
+### Description
+No application is made perfect - you always have bugs in your code. These bugs must be identified, tracked and dealt with as fast as possible, and in a systematic way so that it causes the least amount of problems.
+
+In this task, you will have to make a bug tracker of your own. You will have to create a web or mobile application where people can sign up, add bugs. Admins can assign bugs to people, and admins or assignees can mark bugs as solved. You should be able to add comments to any open tickets. Extra points if you can integrate a mailer that notifies you if you have been assigned a ticket, or any comment has been posted on a ticket assigned to you. Ensure that your submission has a good UI/UX.
+
+### Useful Resources
+These links might give you a direction
+* The issues page of any GitHub or GitLab project.
+* [Flutter](https://flutter.dev/)
+* [Django](https://www.djangoproject.com/)
+
+or any other framework that you wish to use.
+
 ## Task ID: NAME_OF_THE_TASK
 #### `Tag-1` `Tag-2`
 
