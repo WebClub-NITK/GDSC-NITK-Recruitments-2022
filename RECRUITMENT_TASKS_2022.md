@@ -39,7 +39,8 @@ Firebase has been growing in popularity over the years, thanks to its features t
 
 Your task is to come up with a web application, where-in, you can upload files to firebase. This application must support user authentication (different options to login ex: google sign in, phone authentication are expected along with email password), ability to download files and upload files and viewing the uploaded file.
 
-The files must be uploaded to firebase, you are free to use any frontend framework of your choice.
+The files must be uploaded to firebase, you are free to use any frontend framework of your choice. There shoudl be a dashboard for every user and each user can see only thier own files.
+
 ### Useful resources:
 These links might give you a direction
 * https://firebase.google.com/
@@ -49,7 +50,7 @@ These links might give you a direction
 ### Tips
 1. You are not limited by any language or technology.
 2. Focus on the UI part.
-3. Bonus points if there is a dashboard for every user and each user can see only thier own files.
+3. Bonus points if there is a sharable link.
 
 ## Task ID: Progressive Web Application with OAuth
 
@@ -123,7 +124,7 @@ Your task is to develop an application to determine the sentiment of the reviews
 These links might give you a direction
 * https://monkeylearn.com/sentiment-analysis/#:~:text=Sentiment%20analysis%20(or%20opinion%20mining,feedback%2C%20and%20understand%20customer%20needs.
 * https://lazarinastoy.com/sentiment-analysis-theory-methods-applications/
-* https://blog.logrocket.com/sentiment-analysis-node-js/
+* https://www.npmjs.com/package/natural#sentiment-analysis
 * https://techvidvan.com/tutorials/python-sentiment-analysis/
 
 ### Tips
