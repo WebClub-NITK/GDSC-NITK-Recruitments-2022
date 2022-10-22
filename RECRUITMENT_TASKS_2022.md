@@ -133,18 +133,18 @@ These links might give you a direction
 3. Make sure to use a large dataset for more accuracy(if used).
 4. Try using ML and NLP for determining the sentiments.
 5. There are npm packages available for ML.
-6. Variety in the sentiments captured will be awared bonus points. 
+6. Variety in the sentiments captured will be awarded bonus points. 
 
 ## Task ID: Path Finding Visualizer
 #### `Front-End Development`
 
-Mentors: [@Shash0501](https://github.com/Shash0501) (`9380435605`), [@Ashwin901](https://github.com/Ashwin901) (`9035797138`)
+Mentors: [@Shash0501](https://github.com/Shash0501) (9380435605), [@Ashwin901](https://github.com/Ashwin901) (9035797138)
 
 Tag: `Easy`
 
 ### Description
 Path finding algorithms are used to find the shortest path between two points. In this task, you are expected to implement a path finding visualizer. The visualizer should be able to visualize the path finding process and the shortest path between two points. You can use any language or framework of your choice. User should be given a choice to add obstructions in the path.
-The visualizer should be able to find the shortest path between two points using the algorithm selected by the user.
+The visualizer should be able to find the shortest path between two points using the algorithm selected by the user. Users should be able to select the algorithm of their choice, and also add obstructions in the path.
 
 ### Useful resources:
 These links might give you a direction
@@ -154,10 +154,8 @@ These links might give you a direction
 ### Tips
 1. The UI/UX of the application will be an important factor in the grading of this task.
 2. You are free to use any language/technology/framework of your choice.
-3. Users should be to select the algorithm of their choice.
-4. Users should be able to add obstructions in the path.
 
-## Task ID: IRIS Forums Wireframe
+## Task ID: Forums Wireframe
 #### `UI/UX`
 
 Mentors: [@Pranav Agarwal](https://github.com/pranav2305) (+91 8867137015), [@Rashmith](https://github.com/rashmiths) (+91 6362402817)
@@ -167,7 +165,7 @@ Tag: `Medium`
 ### Description
 A wireframe is a basic, two-dimensional visual representation of a web page, app interface, or product layout. You can think of it as a low-fidelity, functional sketch. Product designers and UX (user experience) professionals draw up wireframes to communicate how they plan to arrange and prioritize features, and how they intend for users to interact with its product or website.
 
-Your task is to design a wireframe for the IRIS forums mobile app based on the [IRIS NodeBB Forums Web App](https://forum.iris.nitk.ac.in/). The wireframe should include all of the web app's functionality.
+Your task is to design a wireframe for the forums mobile app based on the [NodeBB Forums Web App](https://forum.iris.nitk.ac.in/). The wireframe should include all of the web app's functionality.
 ### Useful resources:
 These links might give you a direction
 * https://www.mockplus.com/blog/post/mobile-app-wireframing-guide
@@ -177,9 +175,8 @@ These links might give you a direction
 
 ### Tips
 1. Use your creativity to make the UI as appealing and simple to use as possible.
-2. Try to match the designs with the IRIS UI.
-3. Bonus points for prototyping.
-4. Bonus points for coding the forntend in your desired language.
+2. Bonus points for prototyping.
+3. Bonus points for coding the frontend in your desired language.
 
 ## Task ID: ERP for Pabbas
 #### `Cross-Platform App`
@@ -189,7 +186,7 @@ Mentors: [@Pranav Agarwal](https://github.com/pranav2305) (+91 8867137015), [@Ra
 Tag: `Medium`
 
 ### Description
-Enterprise resource planning (ERP) refers to a type of software that organizations use to manage day-to-day business activities such as accounting, procurement, project management, risk management and compliance, and supply chain operations. A complete ERP suite also includes enterprise performance management, software that helps plan, budget, predict, and report on an organization’s financial results.
+Enterprise resource planning (ERP) refers to a type of software that organizations use to manage day-to-day business activities such as accounting, procurement, project management, risk management and compliance, and supply chain operations. A complete ERP suite also includes enterprise performance management, software that helps plan, budget, and report on an organization’s financial results.
 
 Your task is to develop a cross-platform ERP system for Pabbas that includes functionalities such as expenditure tracking, inventory management, and billing. Please keep in mind that the application should operate on a desktop computer.
 ### Useful resources:
@@ -206,13 +203,13 @@ These links might give you a direction
 ## Task ID: Online Multiplayer Game 
 #### `Full-Stack Development` `Sockets` `Game Development`
 
-Mentors: [@Shash0501](https://github.com/Shash0501) (`9380435605`), [@Ashwin901](https://github.com/Ashwin901) (`9035797138`)
+Mentors: [@Shash0501](https://github.com/Shash0501) (+91 9380435605), [@Ashwin901](https://github.com/Ashwin901) (+91 9035797138)
 
 Tag: `Hard`
 
 ### Description
 Multiplayer games are games that can be played either competitively or cooperatively by multiple players, either locally or online. 
-Your task is to develop an online multiplayer game using websockets. The game should have a tournament system where users can create/join rooms and once the game starts players will be randomly paired with other players in the room and the winner will be decided based on the score. The game should be multiplayer and should have a leaderboard to keep track of the scores. The game can be any type of game Ex Tic-Ta-Toe etc. You can use any language/technology/framework of your choice.
+Your task is to develop an online multiplayer game using websockets. The game should have a tournament system where users can create/join rooms and once the game starts players will be randomly paired with other players in the room and the winner will be decided based on the score. The game should be multiplayer and should have a leaderboard to keep track of the scores. The game can be any type of game Ex Tic-Tac-Toe, Chess etc. You can use any language/technology/framework of your choice.
 
 ### Useful resources:
 These links might give you a direction
@@ -222,23 +219,23 @@ These links might give you a direction
 
 ### Tips
 1. You are free to use any language/technology/framework of your choice
-2. The game should be multiplayer and should have a tournament system. 
-3. It should also have a leaderboard to keep track of the scores.
-4. The game can be any type of game Ex Tic-Ta-Toe etc.
+2. The game can be any type of game Ex Tic-Tac-Toe etc.
 
 
 ## Task ID: Codeforces Lockout
 #### `Web dev` `Websockets` `API`
 
-Mentors: [@Sushant S Rao](https://github.com/raosush) (`+91 99167 38256`), [@Rakshith Mohan](https://github.com/mrakshith21) (`+91 9535664371`)
+Mentors: [@Sushanth S Rao](https://github.com/raosush) (+91 9916738256), [@Rakshith Mohan](https://github.com/mrakshith21) (+91 9535664371)
 
 Tag: `Hard`
 
 ### Description
 
-The [Codeforces API](https://codeforces.com/apiHelp) has been very useful for the competitive programming community. Lockout bots developed in Discord allow contestants to compete in exiting two-player contests. 
+The [Codeforces API](https://codeforces.com/apiHelp) has been very useful for the competitive programming community. Lockout bots developed in Discord allow contestants to compete in exciting two-player contests. 
 
-Your task is to a build a web application to play lockout games using the Codeforces API. The application should support mutliplayer matches. Refer carefully to the rules of lockout matches while building the application. 
+Your task is to a build a web application to play lockout games using the Codeforces API. Refer carefully to the rules of lockout matches while building the application. Implement authentication where users should be able to link thier codeforces profile to the application. Any user should be able to invite other players to join them on a knockout match. The application should pick up problems that none of the players have attempted before. 
+
+User should be able to specify rating, tags, etc to filter the questions.
 
 ### Useful resources:
 * https://codeforces.com/blog/entry/78546
@@ -248,27 +245,28 @@ Your task is to a build a web application to play lockout games using the Codefo
 ### Tips
 1. Try to build the application for two players initially and then for multiple players.
 2. UI can be minimal, bonus points will be awarded if it good.
-3. Bonus points for implementing authentication (similar to what is done by Discord bots)
-4. You are free to use any framework of your choice.
+3. You are free to use any framework of your choice.
+4. Support multi-player matches. 
 
 ## Task ID: Country Bot
-#### `Discord Bot` `Telegram Bot` `APIs` `JavaScript` `Python`
+#### `Telegram Bot` `APIs` `JavaScript` `Python`
 
 Mentors: [Rajan Jaiswal](https://github.com/rj-since-2000) (`+91 95653 43771`), [Rahul Gonchikar](https://github.com/rahultg1411) (`+91 78925 95235`)
 
 Tag: `Easy`
 
 ### Description
-Discord and Telegram are two of the most popular real-time messaging platform with robust support for programmable bots.Bots are ubiquitous on Discord/Telegram and provide a wide range of services, including moderation assistance, games, music, internet searches, payment processing, and more. In this task, you are expected to create a interactive Discord/Telegram bot that displays interesting facts and information about a particular country. Users should be able to find the capital, currency, languages spoken, flag etc. Any additional features are appreciated and graded accordingly.You can use any freely available APIs to fetch information about a country. (Recommended: https://restcountries.com/)
+Telegram is one of the most popular real-time messaging platform with robust support for programmable bots.Bots are ubiquitous on Telegram and provide a wide range of services, including moderation assistance, games, music, internet searches, payment processing, and more. 
+
+In this task, you are expected to create a interactive Telegram bot that displays interesting facts and information about a particular country. Users should be able to find the capital, currency, languages spoken, flag etc. Any additional features are appreciated and graded accordingly.You can use any freely available APIs to fetch information about a country. (Recommended: https://restcountries.com/)
 
 ### Useful resources:
 These links might give you a direction
-* https://www.freecodecamp.org/news/create-a-discord-bot-with-javascript-nodejs/
-* https://realpython.com/how-to-make-a-discord-bot-python/
 * https://medium.com/ieee-manipal/build-a-telegram-bot-using-python-23b13549856f
-* There are many YouTube videos where you can take help from.
+* https://www.section.io/engineering-education/telegram-bot-in-nodejs/
 
 ### Tips
+
 1. You are free to use any language/technology/framework of your choice.
 2. Any useful additional/interesting feature will have bonus points.
 3. Try to create a simple dashboard menu to perform different operations and make navigation easier.
@@ -276,13 +274,16 @@ These links might give you a direction
 ## Task ID: Habit Tracker App
 #### `API` `Web/App`
 
-Mentors: [Rashmith S](https://github.com/rashmiths) (`+91 63624 02817`), [Samhita R](https://github.com/sammyrengs) (`+91 99865 15607`)
+Mentors: [Rashmith S](https://github.com/rashmiths) (`+91 6362402817`), [Samhita R](https://github.com/sammyrengs) (`+91 9986515607`)
 
-Tag: `Easy`
+Tag: `Medium`
 
 ### Description
 Habit Tracker Apps help users track how frequently they perform a particular activity or set of activities and helps them form habits. 
-You are expected to create a habit tracker application which allows the user to create and login to their profile and have numerous habits. Each habit should have a tracker where the user can update their progress which is implemented using any API of your choice. (Recommended: https://docs.pixe.la/). 
+You are expected to create a habit tracker application which allows the user to create and login to their profile and have numerous habits. Each habit should have a tracker where the user can update their progress. The application should make use of [this api](https://docs.pixe.la/). 
+
+It is adviced to have a local backup using SQL, Hive etc. Users should be able to start/stop timers for a particular habit and the tracker should be automatically updated.
+
 ### Useful resources:
 These links might give you a direction
 * https://blog.codemagic.io/rest-api-in-flutter/
@@ -342,16 +343,17 @@ These links might give you a direction
 2. The primary focus is on the UI.
 3. You are free to chose the colour schemes, typeface, etc.
 4. All the sections need *not* fetch data from the API (only one or two would do)
+5. Although the task is labelled easy, you will be evaluated on the complexity of UI.
 
-## Task ID: Regularise Stuff - CRON Jobs or DAGs
-#### `Cloud` , `Backend`, `AWS`, `CRON jobs`, `Scheduling`
+## Task ID: Scheduling CRON Jobs
+#### `Cloud` , `Backend`, `CRON jobs`, `Scheduling`
 
 Mentors: [@Parth Mittal](https://github.com/mittal-parth) (`+91 9411327838`), [@Aditya R Rudra](https://github.com/adityaofficial10) (`+91 6260749212`)
 
-Tag: `Hard`
+Tag: `Medium`
 
 ### Description
-We often require the need for a task to be repeated after regular intervals. This is a simple problem that arises in almost every application. There are solutions available, primarily CRON jobs. This can also be implemented using Directed Acyclic Graphs(DAGs).
+We often require the need for a task to be repeated after regular intervals. This is a simple problem that arises in almost every application. There are solutions available, primarily CRON jobs.
 
 Build a web backend using the language and framework of your choice that takes in a task description and schedules an email notification for the user, depending on the frequency specified by the user. You may use any of the two approaches specified above.
 
@@ -359,9 +361,8 @@ Do not try to come up with custom implementations of any scheduling mechanism. I
 
 ### Useful resources:
 These links will help you get to terms with some of the available solutions:
-* AWS Eventbridge: CRON Jobs - https://amirmustafaofficial.medium.com/creating-cron-jobs-using-amazon-event-bridge-6fd6cfd6d0a2
 * Github Actions: CRON Jobs - https://docs.getnacelle.com/deployment/scheduled-builds-github-actions.html
-* Airflow DAGs: https://towardsdatascience.com/job-scheduling-with-apache-airflow-2-0-in-10-minutes-16d19f548a46
+* https://www.javatpoint.com/what-is-cron-job
 
 ### Tips
 1. You are not limited by any language or technology.
@@ -370,7 +371,7 @@ These links will help you get to terms with some of the available solutions:
 4. Most of the solutions provide SDKs in many languages. Feel free to explore any of them.
 
 ## Task ID: Feedback Form Application
-#### `web development`
+#### `web development` `full-stack web development`
 
 Mentors: [@Ashwin901](https://github.com/Ashwin901) (+91 9035797138), [@SrijitaSarkar99](https://github.com/SrijitaSarkar99) (+91 9749299598)
 
@@ -378,7 +379,8 @@ Tag: `Medium`
 
 ### Description
 
-Your task is to build a Feedback Form application for a user to send feedback. Users will get to choose from the list of recipients available. Email of the same is to be sent to the respective receiver when a user submits a form. The application should have at least two pages. One of them displays past feedback forms submitted by the user.
+Your task is to build a Feedback Form application for a user to send feedback. Users invited to fill the form should get appropriate emails. Email of the same is to be sent to the respective receiver when a user submits a form. There should be a dashboard that displays the past forms created/submitted by the user.
+
 ### Useful resources:
 
 These links might give you a direction
@@ -389,5 +391,4 @@ These links might give you a direction
 
 1. You may use any Framework and database of your choice.
 2. You may keep a minimal User Interface.
-3. Bonus points if there is a dashboard for every user and each user can update their own profile details.
-4. Bonus points if the application is deployed.
+3. Bonus if there is statistical information available for the form to the form creator.
