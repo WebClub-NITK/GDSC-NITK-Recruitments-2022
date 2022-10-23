@@ -23,7 +23,8 @@
 | [Habit Tracker App](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-habit-tracker-app)        |
 | [Responsive Landing Page](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-responsive-landing-page)        |
 | [Regularise Stuff - CRON Jobs or DAGs](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-regularise-stuff---cron-jobs-or-dags)        |
-| [Feedback Form Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-feedback-form-application)
+| [Feedback Form Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-feedback-form-application) |
+| [Library Management System](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/edit/main/RECRUITMENT_TASKS_2022.md#task-id-library-management-system-using-microservices)
 
 
 ## Task ID: Pokemon Wiki Using GraphQL
@@ -392,3 +393,29 @@ These links might give you a direction
 1. You may use any Framework and database of your choice.
 2. You may keep a minimal User Interface.
 3. Bonus if there is statistical information available for the form to the form creator.
+
+## Task ID: Library Management System using microservices
+#### `web development` `backend development` `full-stack web development` `microservices`
+
+Mentors: [@Muthukumar](https://github.com/BenzeneAlcohol) (+91 8921472523), [@Aditya R Rudra](https://github.com/adityaofficial10) (+91 6260749212)
+
+Tag: `Hard`
+
+### Description
+
+Microservice based architecture has been on the rise for years now. There are good number of reasons why developers prefer microservice based architecture over monolithic architcture. Microservices are an architectural and organizational approach to software development where software is composed of small independent services that communicate over well-defined APIs. These services are owned by small, self-contained teams.
+
+Your task here is to create a Library Management System using microservices, and solely on microservices. You can use any framework and language of your choice. Your app can contain multiple services and each of the services will have individual servers running on different ports. For example, the database will be running on one port while your book service is on another. 
+
+### Useful resources:
+
+These links might give you a direction
+- [https://mailtrap.docs.apiary.io/#](https://smartbear.com/solutions/microservices/)
+- [https://www.youtube.com/watch?v=sGQSz22U8VM](https://frontegg.com/blog/implementing-microservices-in-nodejs)
+
+### Tips
+
+1. You may use any Framework and database of your choice.
+2. You will be evaluated on the microservices part strictly, so stick to the implementation. 
+3. The UI can be simplicstic.
+4. Implement 2-3 different services. 
