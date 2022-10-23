@@ -10,21 +10,21 @@
 ### Table of contents
 | Task      |
 | ----------- |
+| [Pokemon Wiki Using GraphQL](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-pokemon-wiki-using-graphql)        |
+| [Responsive Landing Page](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-responsive-landing-page)        |
+| [Path Finding Visualizer](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-path-finding-visualizer)        |
+| [Country Bot](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-country-bot)        |
 | [File Upload Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-file-upload-application)       |
 | [Progressive Web application with OAuth](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-progressive-web-application-with-oauth)
-| [Pokemon Wiki Using GraphQL](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-pokemon-wiki-using-graphql)        |
 | [Sentiment Analysis Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-sentiment-analysis-application)        |
-| [Path Finding Visualizer](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-path-finding-visualizer)        |
 | [Forums Wireframe](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-iris-formus-wireframe)        |
 | [ERP for Pabbas](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-erp-for-pabbas)        |
-| [Online Multiplyer Game](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-online-multiplayer-game)        |
-| [Codeforces Lockout](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-codeforces-lockout)        |
-| [Country Bot](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-country-bot)        |
 | [Habit Tracker App](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-habit-tracker-app)        |
-| [Responsive Landing Page](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-responsive-landing-page)        |
 | [Regularise Stuff - CRON Jobs or DAGs](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-regularise-stuff---cron-jobs-or-dags)        |
 | [Feedback Form Application](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-feedback-form-application) |
 | [Library Management System](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-library-management-system-using-microservices)
+| [Online Multiplyer Game](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-online-multiplayer-game)        |
+| [Codeforces Lockout](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-codeforces-lockout)        |
 
 
 ## Task ID: Pokemon Wiki Using GraphQL
@@ -50,6 +50,100 @@ These links might give you a direction
 ### Tips
 1. The UI/UX of the wiki will be an important factor in the grading of this task
 2. You are free to use any language/technology/framework of your choice
+
+## Task ID: Responsive Landing Page
+#### `UI/UX` , `Web-Development` , `Frontend-Development`, `API`
+
+Mentors: [@Parth Mittal](https://github.com/mittal-parth) (`+91 9411327838`), [@Aditya R Rudra](https://github.com/adityaofficial10) (`+91 6260749212`)
+
+Tag: `Easy`
+
+### Description
+A landing page is a single web page that often forms the first digital impression of a product to a user. It contains all the information necessary to attract the user and convert it into a sale. It contains the 'Call To Action' and can make or break the deal.
+
+
+Build a landing page for any business/product. Fetch the data using any of the below mentioned APIs (one or more APIs from any _one_ category). For instance, a cinema hall would use any of the entertainment APIs to show the movies it displays.
+
+#### Entertainment
+- [Imgflip](https://imgflip.com/api) | Gets an array of popular memes
+- [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/) | Search events, attractions, or venues
+
+#### Sports & Fitness
+- [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Get information about Football Leagues & Cups
+- [Ergast F1](http://ergast.com/mrd/) | F1 data from the beginning of the world championships in 1950
+- [NBA Data](https://rapidapi.com/api-sports/api/api-nba/) | All NBA Stats DATA, Games, Livescore, Standings, Statistics
+- [Sportmonks Cricket](https://docs.sportmonks.com/cricket/) | Live cricket score, player statistics and fantasy API
+
+
+#### Games
+- [Clash of Clans](https://developer.clashofclans.com) | Clash of Clans Game Information
+- [Fortnite](https://fortnitetracker.com/site-api) | Fortnite Stats
+- [Marvel](https://developer.marvel.com) | Marvel Comics
+- [Pokéapi](https://pokeapi.co) | Pokémon Information
+- [Valorant (non-official)](https://valorant-api.com) | An extensive API containing data of most Valorant in-game items, assets and more
+
+
+#### Anime
+- [AniDB](https://wiki.anidb.net/HTTP_API_Definition) | Anime Database
+- [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news
+- [MangaDex](https://api.mangadex.org/docs.html) | Manga Database and Community
+- [MyAnimeList](https://myanimelist.net/clubs.php?cid=13727) | Anime and Manga Database and Community
+
+
+### Useful resources:
+These links might give you a direction
+* Sample 1 - https://www.bluelearn.in/
+* Sample 2 - https://www.cuvette.tech/
+
+### Tips
+1. You are not limited by any language or technology.
+2. The primary focus is on the UI.
+3. You are free to chose the colour schemes, typeface, etc.
+4. All the sections need *not* fetch data from the API (only one or two would do)
+5. **IMPORTANT** Although the task is labelled easy, it can be evaluated as a medium task based on the creativity and complexity of UI.
+
+## Task ID: Path Finding Visualizer
+#### `Front-End Development`
+
+Mentors: [@Shash0501](https://github.com/Shash0501) (9380435605), [@Ashwin901](https://github.com/Ashwin901) (9035797138)
+
+Tag: `Easy`
+
+### Description
+Path finding algorithms are used to find the shortest path between two points. In this task, you are expected to implement a path finding visualizer. The visualizer should be able to visualize the path finding process and the shortest path between two points. You can use any language or framework of your choice. User should be given a choice to add obstructions in the path.
+The visualizer should be able to find the shortest path between two points using the algorithm selected by the user. Users should be able to select the algorithm of their choice, and also add obstructions in the path.
+
+### Useful resources:
+These links might give you a direction
+* https://neo4j.com/developer/graph-data-science/path-finding-graph-algorithms/
+* https://p5js.org/
+
+### Tips
+1. The UI/UX of the application will be an important factor in the grading of this task.
+2. You are free to use any language/technology/framework of your choice.
+
+## Task ID: Country Bot
+#### `Telegram Bot` `APIs` `JavaScript` `Python`
+
+Mentors: [Rajan Jaiswal](https://github.com/rj-since-2000) (`+91 95653 43771`), [Rahul Gonchikar](https://github.com/rahultg1411) (`+91 78925 95235`)
+
+Tag: `Easy`
+
+### Description
+Telegram is one of the most popular real-time messaging platform with robust support for programmable bots.Bots are ubiquitous on Telegram and provide a wide range of services, including moderation assistance, games, music, internet searches, payment processing, and more. 
+
+In this task, you are expected to create a interactive Telegram bot that displays interesting facts and information about a particular country. Users should be able to find the capital, currency, languages spoken, flag etc. Any additional features are appreciated and graded accordingly.You can use any freely available APIs to fetch information about a country. (Recommended: https://restcountries.com/)
+
+### Useful resources:
+These links might give you a direction
+* https://medium.com/ieee-manipal/build-a-telegram-bot-using-python-23b13549856f
+* https://www.section.io/engineering-education/telegram-bot-in-nodejs/
+
+### Tips
+
+1. You are free to use any language/technology/framework of your choice.
+2. Any useful additional/interesting feature will have bonus points.
+3. Try to create a simple dashboard menu to perform different operations and make navigation easier.
 
 ## Task ID: File Upload Application
 #### `web development` `firebase`
@@ -136,26 +230,6 @@ These links might give you a direction
 5. There are npm packages available for ML.
 6. Variety in the sentiments captured will be awarded bonus points. 
 
-## Task ID: Path Finding Visualizer
-#### `Front-End Development`
-
-Mentors: [@Shash0501](https://github.com/Shash0501) (9380435605), [@Ashwin901](https://github.com/Ashwin901) (9035797138)
-
-Tag: `Easy`
-
-### Description
-Path finding algorithms are used to find the shortest path between two points. In this task, you are expected to implement a path finding visualizer. The visualizer should be able to visualize the path finding process and the shortest path between two points. You can use any language or framework of your choice. User should be given a choice to add obstructions in the path.
-The visualizer should be able to find the shortest path between two points using the algorithm selected by the user. Users should be able to select the algorithm of their choice, and also add obstructions in the path.
-
-### Useful resources:
-These links might give you a direction
-* https://neo4j.com/developer/graph-data-science/path-finding-graph-algorithms/
-* https://p5js.org/
-
-### Tips
-1. The UI/UX of the application will be an important factor in the grading of this task.
-2. You are free to use any language/technology/framework of your choice.
-
 ## Task ID: Forums Wireframe
 #### `UI/UX`
 
@@ -201,76 +275,9 @@ These links might give you a direction
 1. You are free to use any language/technology/framework of your choice.
 2. Try to implement as many features of an ERP as possible.
 
-## Task ID: Online Multiplayer Game 
-#### `Full-Stack Development` `Sockets` `Game Development`
-
-Mentors: [@Shash0501](https://github.com/Shash0501) (+91 9380435605), [@Ashwin901](https://github.com/Ashwin901) (+91 9035797138)
-
-Tag: `Hard`
-
-### Description
-Multiplayer games are games that can be played either competitively or cooperatively by multiple players, either locally or online. 
-Your task is to develop an online multiplayer game using websockets. The game should have a tournament system where users can create/join rooms and once the game starts players will be randomly paired with other players in the room and the winner will be decided based on the score. The game should be multiplayer and should have a leaderboard to keep track of the scores. The game can be any type of game Ex Tic-Tac-Toe, Chess etc. You can use any language/technology/framework of your choice.
-
-### Useful resources:
-These links might give you a direction
-* https://www.youtube.com/watch?v=aA_SdbGD64E
-* https://www.metered.ca/docs/Video-Calls/JavaScript/Building-a-Group-Video%E2%80%93Calling-Application/
-* https://bloggeek.me/what-is-webrtc/
-
-### Tips
-1. You are free to use any language/technology/framework of your choice
-2. The game can be any type of game Ex Tic-Tac-Toe etc.
 
 
-## Task ID: Codeforces Lockout
-#### `Web dev` `Websockets` `API`
 
-Mentors: [@Sushanth S Rao](https://github.com/raosush) (+91 9916738256), [@Rakshith Mohan](https://github.com/mrakshith21) (+91 9535664371)
-
-Tag: `Hard`
-
-### Description
-
-The [Codeforces API](https://codeforces.com/apiHelp) has been very useful for the competitive programming community. Lockout bots developed in Discord allow contestants to compete in exciting two-player contests. 
-
-Your task is to a build a web application to play lockout games using the Codeforces API. Refer carefully to the rules of lockout matches while building the application. Implement authentication where users should be able to link their codeforces profile to the application. Any user should be able to invite other players to join them on a knockout match. The application should pick up problems that none of the players have attempted before. 
-
-User should be able to specify rating, tags, etc to filter the questions.
-
-### Useful resources:
-* https://codeforces.com/blog/entry/78546
-* https://socket.io/get-started/chat
-* https://www.youtube.com/watch?v=bBNIIg8REUU
-
-### Tips
-1. Try to build the application for two players initially and then for multiple players.
-2. UI can be minimal, bonus points will be awarded if it good.
-3. You are free to use any framework of your choice.
-4. Support multi-player matches. 
-
-## Task ID: Country Bot
-#### `Telegram Bot` `APIs` `JavaScript` `Python`
-
-Mentors: [Rajan Jaiswal](https://github.com/rj-since-2000) (`+91 95653 43771`), [Rahul Gonchikar](https://github.com/rahultg1411) (`+91 78925 95235`)
-
-Tag: `Easy`
-
-### Description
-Telegram is one of the most popular real-time messaging platform with robust support for programmable bots.Bots are ubiquitous on Telegram and provide a wide range of services, including moderation assistance, games, music, internet searches, payment processing, and more. 
-
-In this task, you are expected to create a interactive Telegram bot that displays interesting facts and information about a particular country. Users should be able to find the capital, currency, languages spoken, flag etc. Any additional features are appreciated and graded accordingly.You can use any freely available APIs to fetch information about a country. (Recommended: https://restcountries.com/)
-
-### Useful resources:
-These links might give you a direction
-* https://medium.com/ieee-manipal/build-a-telegram-bot-using-python-23b13549856f
-* https://www.section.io/engineering-education/telegram-bot-in-nodejs/
-
-### Tips
-
-1. You are free to use any language/technology/framework of your choice.
-2. Any useful additional/interesting feature will have bonus points.
-3. Try to create a simple dashboard menu to perform different operations and make navigation easier.
 
 ## Task ID: Habit Tracker App
 #### `API` `Web/App`
@@ -295,56 +302,6 @@ These links might give you a direction
 2. You can create a simple dashboard to list all the habits of a particular user. 
 3. Bonus points for displaying statistics using graphs and any useful additional feature.
 
-## Task ID: Responsive Landing Page
-#### `UI/UX` , `Web-Development` , `Frontend-Development`, `API`
-
-Mentors: [@Parth Mittal](https://github.com/mittal-parth) (`+91 9411327838`), [@Aditya R Rudra](https://github.com/adityaofficial10) (`+91 6260749212`)
-
-Tag: `Easy`
-
-### Description
-A landing page is a single web page that often forms the first digital impression of a product to a user. It contains all the information necessary to attract the user and convert it into a sale. It contains the 'Call To Action' and can make or break the deal.
-
-
-Build a landing page for any business/product. Fetch the data using any of the below mentioned APIs (one or more APIs from any _one_ category). For instance, a cinema hall would use any of the entertainment APIs to show the movies it displays.
-
-#### Entertainment
-- [Imgflip](https://imgflip.com/api) | Gets an array of popular memes
-- [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/) | Search events, attractions, or venues
-
-#### Sports & Fitness
-- [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Get information about Football Leagues & Cups
-- [Ergast F1](http://ergast.com/mrd/) | F1 data from the beginning of the world championships in 1950
-- [NBA Data](https://rapidapi.com/api-sports/api/api-nba/) | All NBA Stats DATA, Games, Livescore, Standings, Statistics
-- [Sportmonks Cricket](https://docs.sportmonks.com/cricket/) | Live cricket score, player statistics and fantasy API
-
-
-#### Games
-- [Clash of Clans](https://developer.clashofclans.com) | Clash of Clans Game Information
-- [Fortnite](https://fortnitetracker.com/site-api) | Fortnite Stats
-- [Marvel](https://developer.marvel.com) | Marvel Comics
-- [Pokéapi](https://pokeapi.co) | Pokémon Information
-- [Valorant (non-official)](https://valorant-api.com) | An extensive API containing data of most Valorant in-game items, assets and more
-
-
-#### Anime
-- [AniDB](https://wiki.anidb.net/HTTP_API_Definition) | Anime Database
-- [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news
-- [MangaDex](https://api.mangadex.org/docs.html) | Manga Database and Community
-- [MyAnimeList](https://myanimelist.net/clubs.php?cid=13727) | Anime and Manga Database and Community
-
-
-### Useful resources:
-These links might give you a direction
-* Sample 1 - https://www.bluelearn.in/
-* Sample 2 - https://www.cuvette.tech/
-
-### Tips
-1. You are not limited by any language or technology.
-2. The primary focus is on the UI.
-3. You are free to chose the colour schemes, typeface, etc.
-4. All the sections need *not* fetch data from the API (only one or two would do)
-5. **IMPORTANT** Although the task is labelled easy, it can be evaluated as a medium task based on the creativity and complexity of UI.
 
 ## Task ID: Scheduling CRON Jobs
 #### `Cloud` , `Backend`, `CRON jobs`, `Scheduling`
@@ -420,3 +377,50 @@ These links might give you a direction
 2. You will be evaluated on the microservices part strictly, so stick to the implementation. 
 3. The UI can be simplicstic.
 4. Implement 2-3 different services. 
+
+## Task ID: Online Multiplayer Game 
+#### `Full-Stack Development` `Sockets` `Game Development`
+
+Mentors: [@Shash0501](https://github.com/Shash0501) (+91 9380435605), [@Ashwin901](https://github.com/Ashwin901) (+91 9035797138)
+
+Tag: `Hard`
+
+### Description
+Multiplayer games are games that can be played either competitively or cooperatively by multiple players, either locally or online. 
+Your task is to develop an online multiplayer game using websockets. The game should have a tournament system where users can create/join rooms and once the game starts players will be randomly paired with other players in the room and the winner will be decided based on the score. The game should be multiplayer and should have a leaderboard to keep track of the scores. The game can be any type of game Ex Tic-Tac-Toe, Chess etc. You can use any language/technology/framework of your choice.
+
+### Useful resources:
+These links might give you a direction
+* https://www.youtube.com/watch?v=aA_SdbGD64E
+* https://www.metered.ca/docs/Video-Calls/JavaScript/Building-a-Group-Video%E2%80%93Calling-Application/
+* https://bloggeek.me/what-is-webrtc/
+
+### Tips
+1. You are free to use any language/technology/framework of your choice
+2. The game can be any type of game Ex Tic-Tac-Toe etc.
+
+## Task ID: Codeforces Lockout
+#### `Web dev` `Websockets` `API`
+
+Mentors: [@Sushanth S Rao](https://github.com/raosush) (+91 9916738256), [@Rakshith Mohan](https://github.com/mrakshith21) (+91 9535664371)
+
+Tag: `Hard`
+
+### Description
+
+The [Codeforces API](https://codeforces.com/apiHelp) has been very useful for the competitive programming community. Lockout bots developed in Discord allow contestants to compete in exciting two-player contests. 
+
+Your task is to a build a web application to play lockout games using the Codeforces API. Refer carefully to the rules of lockout matches while building the application. Implement authentication where users should be able to link their codeforces profile to the application. Any user should be able to invite other players to join them on a knockout match. The application should pick up problems that none of the players have attempted before. 
+
+User should be able to specify rating, tags, etc to filter the questions.
+
+### Useful resources:
+* https://codeforces.com/blog/entry/78546
+* https://socket.io/get-started/chat
+* https://www.youtube.com/watch?v=bBNIIg8REUU
+
+### Tips
+1. Try to build the application for two players initially and then for multiple players.
+2. UI can be minimal, bonus points will be awarded if it good.
+3. You are free to use any framework of your choice.
+4. Support multi-player matches. 
