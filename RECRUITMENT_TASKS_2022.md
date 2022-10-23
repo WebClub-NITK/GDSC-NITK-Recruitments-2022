@@ -405,7 +405,7 @@ Tag: `Hard`
 
 Microservice based architecture has been on the rise for years now. There are good number of reasons why developers prefer microservice based architecture over monolithic architcture. Microservices are an architectural and organizational approach to software development where software is composed of small independent services that communicate over well-defined APIs. These services are owned by small, self-contained teams.
 
-Your task here is to create a Library Management System using microservices, and solely on microservices. You can use any framework and language of your choice. Your app can contain multiple services and each of the services will have individual servers running on different ports. For example, the database will be running on one port while your book service is on another. 
+Your task here is to create a Library Management System using microservices, and solely on microservices. You can use any framework and language of your choice. Your application can contain multiple services and each of the services will have individual servers running on different ports. There could be multiple microservices for your application, implement a few of them. As an example of a microservice, let us assume that the database will be running on one port while your book service is on another, while the library service is on another, and so on.
 
 ### Useful resources:
 
