@@ -410,8 +410,9 @@ Your task here is to create a Library Management System using microservices, and
 ### Useful resources:
 
 These links might give you a direction
-- [https://mailtrap.docs.apiary.io/#](https://smartbear.com/solutions/microservices/)
-- [https://www.youtube.com/watch?v=sGQSz22U8VM](https://frontegg.com/blog/implementing-microservices-in-nodejs)
+- [What are Microservices](https://smartbear.com/solutions/microservices/)
+- [Implementing Microservices in Node JS](https://frontegg.com/blog/implementing-microservices-in-nodejs)
+- [Implementing Microservices in Go](https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-golang)
 
 ### Tips
 
