@@ -115,7 +115,7 @@ The visualizer should be able to find the shortest path between two points using
 
 ### Useful resources:
 These links might give you a direction
-* https://neo4j.com/developer/graph-data-science/path-finding-graph-algorithms/
+* http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
 * https://p5js.org/
 
 ### Tips
